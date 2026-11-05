@@ -1,0 +1,7 @@
+duckdb>=1.1
+pandas
+numpy
+scipy
+statsmodels
+scikit-learn
+matplotlib

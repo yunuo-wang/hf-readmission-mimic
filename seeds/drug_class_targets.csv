@@ -1,0 +1,9 @@
+drug_class,atc_prefix,description
+loop_diuretic,C03C,High-ceiling (loop) diuretics
+beta_blocker,C07,Beta blocking agents
+raas_inhibitor,C09A,ACE inhibitors plain
+raas_inhibitor,C09B,ACE inhibitors combinations
+raas_inhibitor,C09C,Angiotensin II receptor blockers (ARBs) plain
+raas_inhibitor,C09D,ARB combinations (incl. sacubitril/valsartan C09DX04)
+mra,C03DA,Mineralocorticoid receptor antagonists (aldosterone antagonists)
+sglt2i,A10BK,SGLT2 inhibitors

@@ -1,0 +1,16 @@
+icd_version,icd_code,long_title,n
+10,I130,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",2652
+10,I110,Hypertensive heart disease with heart failure,1490
+9,42833,Acute on chronic diastolic heart failure,1237
+9,42823,Acute on chronic systolic heart failure,938
+10,I132,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease",528
+10,I5033,Acute on chronic diastolic (congestive) heart failure,379
+9,4280,"Congestive heart failure, unspecified",342
+10,I5023,Acute on chronic systolic (congestive) heart failure,282
+9,42831,Acute diastolic heart failure,268
+9,42843,Acute on chronic combined systolic and diastolic heart failure,265
+9,42821,Acute systolic heart failure,237
+9,42822,Chronic systolic heart failure,185
+10,I5021,Acute systolic (congestive) heart failure,126
+10,I5031,Acute diastolic (congestive) heart failure,85
+9,40491,"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified",77

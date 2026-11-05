@@ -1,0 +1,6 @@
+drug_class,source,n_drug_strings,examples
+beta_blocker,RxNav ATC,14,atenolol; bisoprolol fumarate; carvedilol; labetalol; metoprolol; metoprolol succinate xl; metoprolol tartrate; metoprolol xl (toprol xl); nadolol; propranolol; propranolol la; sotalol; timolol maleate 0.25%; timolol maleate 0.5%
+loop_diuretic,RxNav ATC,3,bumetanide; furosemide; torsemide
+mra,RxNav ATC,2,eplerenone; spironolactone
+raas_inhibitor,RxNav ATC,15,avapro; candesartan; captopril; enalapril maleate; irbesartan; lisinopril; losartan potassium; moexipril; quinapril; ramipril; sacubitril-valsartan (24mg-26mg); sacubitril-valsartan (49mg-51mg); sacubitril-valsartan (97mg-103mg); trandolapril; valsartan
+sglt2i,RxNav ATC,2,dapagliflozin; empagliflozin

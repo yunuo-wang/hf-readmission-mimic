@@ -1,0 +1,60 @@
+concept_id,concept_name,icd_version,code_prefix,note
+HF,Heart failure,9,428,All 428.x heart failure codes
+HF,Heart failure,9,40201,Hypertensive heart disease with HF
+HF,Heart failure,9,40211,Hypertensive heart disease with HF
+HF,Heart failure,9,40291,Hypertensive heart disease with HF
+HF,Heart failure,9,40401,Hypertensive heart and CKD with HF
+HF,Heart failure,9,40403,Hypertensive heart and CKD with HF
+HF,Heart failure,9,40411,Hypertensive heart and CKD with HF
+HF,Heart failure,9,40413,Hypertensive heart and CKD with HF
+HF,Heart failure,9,40491,Hypertensive heart and CKD with HF
+HF,Heart failure,9,40493,Hypertensive heart and CKD with HF
+HF,Heart failure,10,I50,All I50.x heart failure codes
+HF,Heart failure,10,I110,Hypertensive heart disease with HF
+HF,Heart failure,10,I130,Hypertensive heart and CKD with HF
+HF,Heart failure,10,I132,Hypertensive heart and CKD with HF and ESRD
+DM,Diabetes mellitus,9,250,Diabetes mellitus
+DM,Diabetes mellitus,10,E08,Diabetes due to underlying condition
+DM,Diabetes mellitus,10,E09,Drug-induced diabetes
+DM,Diabetes mellitus,10,E10,Type 1 diabetes
+DM,Diabetes mellitus,10,E11,Type 2 diabetes
+DM,Diabetes mellitus,10,E13,Other specified diabetes
+CKD,Chronic kidney disease,9,585,Chronic kidney disease
+CKD,Chronic kidney disease,9,40301,Hypertensive CKD stage V/ESRD
+CKD,Chronic kidney disease,9,40311,Hypertensive CKD stage V/ESRD
+CKD,Chronic kidney disease,9,40391,Hypertensive CKD stage V/ESRD
+CKD,Chronic kidney disease,10,N18,Chronic kidney disease
+CKD,Chronic kidney disease,10,I12,Hypertensive CKD
+CKD,Chronic kidney disease,10,I13,Hypertensive heart and CKD
+COPD,Chronic pulmonary disease,9,491,Chronic bronchitis
+COPD,Chronic pulmonary disease,9,492,Emphysema
+COPD,Chronic pulmonary disease,9,493,Asthma
+COPD,Chronic pulmonary disease,9,496,Chronic airway obstruction
+COPD,Chronic pulmonary disease,10,J43,Emphysema
+COPD,Chronic pulmonary disease,10,J44,Other COPD
+COPD,Chronic pulmonary disease,10,J45,Asthma
+AF,Atrial fibrillation/flutter,9,42731,Atrial fibrillation
+AF,Atrial fibrillation/flutter,9,42732,Atrial flutter
+AF,Atrial fibrillation/flutter,10,I48,Atrial fibrillation and flutter
+IHD,Ischemic heart disease,9,410,Acute myocardial infarction
+IHD,Ischemic heart disease,9,411,Other acute IHD
+IHD,Ischemic heart disease,9,412,Old myocardial infarction
+IHD,Ischemic heart disease,9,413,Angina pectoris
+IHD,Ischemic heart disease,9,414,Other chronic IHD
+IHD,Ischemic heart disease,10,I20,Angina pectoris
+IHD,Ischemic heart disease,10,I21,Acute myocardial infarction
+IHD,Ischemic heart disease,10,I22,Subsequent myocardial infarction
+IHD,Ischemic heart disease,10,I24,Other acute IHD
+IHD,Ischemic heart disease,10,I25,Chronic IHD
+ANEMIA,Anemia,9,280,Iron deficiency anemia
+ANEMIA,Anemia,9,281,Other deficiency anemias
+ANEMIA,Anemia,9,285,Other and unspecified anemias
+ANEMIA,Anemia,10,D50,Iron deficiency anemia
+ANEMIA,Anemia,10,D51,Vitamin B12 deficiency anemia
+ANEMIA,Anemia,10,D52,Folate deficiency anemia
+ANEMIA,Anemia,10,D53,Other nutritional anemias
+ANEMIA,Anemia,10,D62,Acute posthemorrhagic anemia
+ANEMIA,Anemia,10,D63,Anemia in chronic diseases
+ANEMIA,Anemia,10,D64,Other anemias
+OBESITY,Obesity,9,2780,Overweight and obesity
+OBESITY,Obesity,10,E66,Overweight and obesity

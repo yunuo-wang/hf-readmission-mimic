@@ -1,0 +1,7 @@
+lab_name,loinc_code,n_admissions_with_value,pct_coverage
+bun,3094-0,7798,97.7
+creatinine,2160-0,7800,97.7
+hemoglobin,718-7,7672,96.1
+ntprobnp,33762-6,1602,20.1
+potassium,2823-3,7808,97.8
+sodium,2951-2,7792,97.6

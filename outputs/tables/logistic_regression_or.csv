@@ -1,0 +1,24 @@
+variable,label,odds_ratio,ci_low,ci_high,p_value
+age_per10,Age (per 10 years),1.0096,0.9628,1.0586,0.6936
+female,Female sex,0.9533,0.8479,1.0718,0.424
+prior_adm_1,1 prior admission (past year),1.2222,1.0621,1.4064,0.0051
+prior_adm_2plus,2+ prior admissions (past year),1.9523,1.7063,2.2337,0.0
+los_gt7,Length of stay > 7 days,1.0688,0.9389,1.2167,0.3141
+icu_stay,ICU stay during admission,1.1224,0.9693,1.2997,0.1228
+dm,Diabetes,0.9948,0.8852,1.118,0.9301
+ckd,Chronic kidney disease,0.9334,0.8041,1.0834,0.3644
+copd,Chronic pulmonary disease,1.0404,0.9197,1.1769,0.5293
+af,Atrial fibrillation/flutter,0.9438,0.8389,1.0617,0.3354
+ihd,Ischemic heart disease,1.1364,1.0114,1.2769,0.0315
+anemia,Anemia (diagnosis),1.0443,0.9207,1.1844,0.5001
+creat_high,Creatinine > 1.5 mg/dL,1.1623,0.9824,1.375,0.0796
+sodium_low,Sodium < 135 mEq/L,1.3137,1.1168,1.5454,0.001
+bun_high,BUN > 30 mg/dL,1.1709,1.0178,1.3471,0.0274
+hgb_low,Hemoglobin < 10 g/dL,1.3049,1.1418,1.4913,0.0001
+rx_loop_diuretic,Loop diuretic at discharge,0.9659,0.8426,1.1074,0.6192
+rx_beta_blocker,Beta-blocker at discharge,0.947,0.8274,1.084,0.4298
+rx_raas_inhibitor,ACEi/ARB/ARNI at discharge,0.9171,0.8128,1.0348,0.1603
+rx_mra,MRA at discharge,1.026,0.8731,1.2057,0.7552
+rx_sglt2i,SGLT2 inhibitor at discharge,0.6397,0.3346,1.2229,0.1766
+dc_snf,Discharged to SNF / rehab,1.0582,0.9207,1.2163,0.4256
+medicaid,Medicaid insurance,1.1544,0.9608,1.387,0.1253

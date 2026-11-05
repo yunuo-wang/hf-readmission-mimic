@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# MIMIC-IV data must never be committed (PhysioNet DUA)
+*.duckdb
+*.duckdb.wal
+*.csv.gz
+hf_analytic_dataset.csv
+data/
+
+# OS
+.DS_Store

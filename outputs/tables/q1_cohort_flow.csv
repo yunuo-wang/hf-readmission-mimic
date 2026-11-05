@@ -1,0 +1,5 @@
+step,description,n
+1,All MIMIC-IV hospital admissions,546028
+2,Admissions with principal diagnosis of heart failure,15083
+3,Patients with >=1 HF admission,8437
+4,"Index admissions after exclusions (alive, not hospice/AMA, adult; first per patient)",7983

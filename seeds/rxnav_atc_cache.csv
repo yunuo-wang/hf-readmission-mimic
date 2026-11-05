@@ -1,0 +1,1343 @@
+drug_norm,rxcui,ingredient,atc_code,atc_name
+0.45% sodium chloride,615096,sodium chloride,A12CA,Sodium
+0.45% sodium chloride,615096,sodium chloride,B05CB,Salt solutions
+0.45% sodium chloride,615096,sodium chloride,B05XA,Electrolyte solutions
+0.9% sodium chloride,615106,sodium chloride,A12CA,Sodium
+0.9% sodium chloride,615106,sodium chloride,B05CB,Salt solutions
+0.9% sodium chloride,615106,sodium chloride,B05XA,Electrolyte solutions
+0.9% sodium chloride (mini bag plus),1807639,sodium chloride,A12CA,Sodium
+0.9% sodium chloride (mini bag plus),1807639,sodium chloride,B05CB,Salt solutions
+0.9% sodium chloride (mini bag plus),1807639,sodium chloride,B05XA,Electrolyte solutions
+1/2 ns,1807637,sodium chloride,A12CA,Sodium
+1/2 ns,1807637,sodium chloride,B05CB,Salt solutions
+1/2 ns,1807637,sodium chloride,B05XA,Electrolyte solutions
+5% dextrose,315789,glucose,B05CX,Other irrigating solutions
+5% dextrose,315789,glucose,V04CA,Tests for diabetes
+5% dextrose,315789,glucose,V06DC,Carbohydrates
+abacavir sulfate,221052,abacavir,J05AF,Nucleoside and nucleotide reverse transcriptase inhibitors
+acetaminophen,161,acetaminophen,N02BE,Anilides
+acetaminophen (liquid),1152841,acetaminophen,N02BE,Anilides
+acetaminophen iv,161,acetaminophen,N02BE,Anilides
+acetaminophen w/codeine,817579,acetaminophen,N02BE,Anilides
+acetaminophen w/codeine,817579,codeine,R05DA,Opium alkaloids and derivatives
+acetaminophen-caff-butalbital,214130,acetaminophen,N02BE,Anilides
+acetaminophen-caff-butalbital,214130,caffeine,D11AX,Other dermatologicals
+acetaminophen-caff-butalbital,214130,caffeine,N06BC,Xanthine derivatives
+acetazolamide,167,acetazolamide,S01EC,Carbonic anhydrase inhibitors
+acetazolamide sodium,91406,acetazolamide,S01EC,Carbonic anhydrase inhibitors
+acetylcysteine 20%,307719,acetylcysteine,R05CB,Mucolytics
+acetylcysteine 20%,307719,acetylcysteine,S01XA,Other ophthalmologicals
+acetylcysteine 20%,307719,acetylcysteine,V03AB,Antidotes
+acyclovir,281,acyclovir,D06BB,Antivirals
+acyclovir,281,acyclovir,J05AB,Nucleosides and nucleotides excl. reverse transcriptase inhibitors
+acyclovir,281,acyclovir,S01AD,Antivirals
+albumin 25% (12.5g / 50ml),1741375,"albumin human, USP",,
+albuterol,435,albuterol,R03AC,Selective beta-2-adrenoreceptor agonists
+albuterol,435,albuterol,R03CC,Selective beta-2-adrenoreceptor agonists
+albuterol 0.083% neb soln,630208,albuterol,R03AC,Selective beta-2-adrenoreceptor agonists
+albuterol 0.083% neb soln,630208,albuterol,R03CC,Selective beta-2-adrenoreceptor agonists
+albuterol inhaler,2108226,albuterol,R03AC,Selective beta-2-adrenoreceptor agonists
+albuterol inhaler,2108226,albuterol,R03CC,Selective beta-2-adrenoreceptor agonists
+albuterol mdi,435,albuterol,R03AC,Selective beta-2-adrenoreceptor agonists
+albuterol mdi,435,albuterol,R03CC,Selective beta-2-adrenoreceptor agonists
+albuterol-ipratropium,214199,albuterol,R03AC,Selective beta-2-adrenoreceptor agonists
+albuterol-ipratropium,214199,albuterol,R03CC,Selective beta-2-adrenoreceptor agonists
+alendronate sodium,203152,alendronate,,
+aliskiren,325646,aliskiren,C09XA,Renin-inhibitors
+allopurinol,519,allopurinol,M04AA,Preparations inhibiting uric acid production
+alprazolam,596,alprazolam,N05BA,Benzodiazepine derivatives
+alteplase (catheter clearance),8410,alteplase,B01AD,Enzymes
+alteplase (catheter clearance),8410,alteplase,S01XA,Other ophthalmologicals
+aluminum hydroxide suspension,370556,aluminum hydroxide,A02AB,Aluminium compounds
+aluminum-magnesium hydrox.-simethicone,1235449,aluminum magnesium silicate,A02AD,"Combinations and complexes of aluminium, calcium and magnesium compounds"
+aluminum-magnesium hydrox.-simethicone,1235449,magnesium hydroxide,A02AA,Magnesium compounds
+aluminum-magnesium hydrox.-simethicone,1235449,magnesium hydroxide,G04BX,Other urologicals
+amaryl,,,,
+ambrisentan,358274,ambrisentan,C02KX,Antihypertensives for pulmonary arterial hypertension
+amiodarone,703,amiodarone,C01BD,"Antiarrhythmics, class III"
+amitriptyline,704,amitriptyline,N06AA,Non-selective monoamine reuptake inhibitors
+amlodipine,17767,amlodipine,C08CA,Dihydropyridine derivatives
+amoxicillin,723,amoxicillin,J01CA,Penicillins with extended spectrum
+amoxicillin-clavulanic acid,19711,amoxicillin,J01CA,Penicillins with extended spectrum
+amphetamine-dextroamphetamine,253146,dextroamphetamine,N06BA,Centrally acting sympathomimetics
+amphetamine-dextroamphetamine,253146,amphetamine,N06BA,Centrally acting sympathomimetics
+amphetamine-dextroamphetamine xr,253146,dextroamphetamine,N06BA,Centrally acting sympathomimetics
+amphetamine-dextroamphetamine xr,253146,amphetamine,N06BA,Centrally acting sympathomimetics
+ampicillin,733,ampicillin,J01CA,Penicillins with extended spectrum
+ampicillin,733,ampicillin,S01AA,Antibiotics
+ampicillin sodium,81953,ampicillin,J01CA,Penicillins with extended spectrum
+ampicillin sodium,81953,ampicillin,S01AA,Antibiotics
+ampicillin-sulbactam,1009148,sulbactam,J01CG,Beta-lactamase inhibitors
+ampicillin-sulbactam,1009148,ampicillin,J01CA,Penicillins with extended spectrum
+ampicillin-sulbactam,1009148,ampicillin,S01AA,Antibiotics
+anastrozole,84857,anastrozole,L02BG,Aromatase inhibitors
+apixaban,1364430,apixaban,B01AF,Direct factor Xa inhibitors
+aquaphor ointment,1052953,petrolatum,,
+arimidex,262485,anastrozole,L02BG,Aromatase inhibitors
+aripiprazole,89013,aripiprazole,N05AX,Other antipsychotics
+artificial tear ointment,746083,mineral oil,A06AA,"Softeners, emollients"
+artificial tears,746083,mineral oil,A06AA,"Softeners, emollients"
+artificial tears gel 1%,746083,mineral oil,A06AA,"Softeners, emollients"
+artificial tears preserv. free,1088217,hypromellose,S01KA,Viscoelastic substances
+ascorbic acid,1151,ascorbic acid,A11GA,"Ascorbic acid (vitamin C), plain"
+ascorbic acid,1151,ascorbic acid,G01AD,Organic acids
+ascorbic acid,1151,ascorbic acid,S01XA,Other ophthalmologicals
+aspirin,1191,aspirin,A01AD,Other agents for local oral treatment
+aspirin,1191,aspirin,B01AC,Platelet aggregation inhibitors excl. heparin
+aspirin,1191,aspirin,N02BA,Salicylic acid and derivatives
+aspirin ec,198467,aspirin,A01AD,Other agents for local oral treatment
+aspirin ec,198467,aspirin,B01AC,Platelet aggregation inhibitors excl. heparin
+aspirin ec,198467,aspirin,N02BA,Salicylic acid and derivatives
+atazanavir,343047,atazanavir,J05AE,Protease inhibitors
+atenolol,1202,atenolol,C07AB,"Beta blocking agents, selective"
+atorvastatin,83367,atorvastatin,C10AA,HMG CoA reductase inhibitors
+atovaquone suspension,370622,atovaquone,P01AX,Other agents against amoebiasis and other protozoal diseases
+atropine sulfate,153971,atropine,A03BA,"Belladonna alkaloids, tertiary amines"
+atropine sulfate,153971,atropine,S01FA,Anticholinergics
+atropine sulfate ophth 1%,1190570,atropine,A03BA,"Belladonna alkaloids, tertiary amines"
+atropine sulfate ophth 1%,1190570,atropine,S01FA,Anticholinergics
+avapro,153668,irbesartan,C09CA,"Angiotensin II receptor blockers (ARBs), plain"
+azathioprine,1256,azathioprine,L04AX,Other immunosuppressants
+azithromycin,18631,azithromycin,J01FA,Macrolides
+azithromycin,18631,azithromycin,S01AA,Antibiotics
+azopt,194882,brinzolamide,S01EC,Carbonic anhydrase inhibitors
+aztreonam,1272,aztreonam,J01DF,Monobactams
+bacitracin ointment,370982,bacitracin,D06AX,Other antibiotics for topical use
+bacitracin ointment,370982,bacitracin,J01XX,Other antibacterials
+bacitracin ointment,370982,bacitracin,R02AB,Antibiotics
+bacitracin ointment,370982,bacitracin,S01AA,Antibiotics
+baclofen,1292,baclofen,M03BX,Other centrally acting agents
+bag,2700175,obecabtagene autoleucel,L01XL,Antineoplastic cell and gene therapy
+bengay,9471,rose bengal,,
+bengay cream,9471,rose bengal,,
+benzocaine-menthol (sore throat lozenge),802558,benzocaine,C05AD,Local anesthetics
+benzocaine-menthol (sore throat lozenge),802558,benzocaine,D04AB,Anesthetics for topical use
+benzocaine-menthol (sore throat lozenge),802558,benzocaine,N01BA,Esters of aminobenzoic acid
+benzocaine-menthol (sore throat lozenge),802558,benzocaine,R02AD,"Anesthetics, local"
+benzonatate,18993,benzonatate,R05DB,Other cough suppressants
+benztropine mesylate,18927,benztropine,N04AC,Ethers of tropine or tropine derivatives
+betamethasone dipro 0.05% cream,848176,betamethasone,A07EA,Corticosteroids acting locally
+betamethasone dipro 0.05% cream,848176,betamethasone,C05AA,Corticosteroids
+betamethasone dipro 0.05% cream,848176,betamethasone,D07AC,"Corticosteroids, potent (group III)"
+betamethasone dipro 0.05% cream,848176,betamethasone,D07XC,"Corticosteroids, potent, other combinations"
+betamethasone dipro 0.05% cream,848176,betamethasone,H02AB,Glucocorticoids
+betamethasone dipro 0.05% cream,848176,betamethasone,R01AD,Corticosteroids
+betamethasone dipro 0.05% cream,848176,betamethasone,R03BA,Glucocorticoids
+betamethasone dipro 0.05% cream,848176,betamethasone,S01BA,"Corticosteroids, plain"
+betamethasone dipro 0.05% cream,848176,betamethasone,S01CB,Corticosteroids/antiinfectives/mydriatics in combination
+betamethasone dipro 0.05% cream,848176,betamethasone,S02BA,Corticosteroids
+betamethasone dipro 0.05% cream,848176,betamethasone,S03BA,Corticosteroids
+betamethasone dipro 0.05% oint,848180,betamethasone,A07EA,Corticosteroids acting locally
+betamethasone dipro 0.05% oint,848180,betamethasone,C05AA,Corticosteroids
+betamethasone dipro 0.05% oint,848180,betamethasone,D07AC,"Corticosteroids, potent (group III)"
+betamethasone dipro 0.05% oint,848180,betamethasone,D07XC,"Corticosteroids, potent, other combinations"
+betamethasone dipro 0.05% oint,848180,betamethasone,H02AB,Glucocorticoids
+betamethasone dipro 0.05% oint,848180,betamethasone,R01AD,Corticosteroids
+betamethasone dipro 0.05% oint,848180,betamethasone,R03BA,Glucocorticoids
+betamethasone dipro 0.05% oint,848180,betamethasone,S01BA,"Corticosteroids, plain"
+betamethasone dipro 0.05% oint,848180,betamethasone,S01CB,Corticosteroids/antiinfectives/mydriatics in combination
+betamethasone dipro 0.05% oint,848180,betamethasone,S02BA,Corticosteroids
+betamethasone dipro 0.05% oint,848180,betamethasone,S03BA,Corticosteroids
+betamethasone valerate 0.1% cream,197407,betamethasone,A07EA,Corticosteroids acting locally
+betamethasone valerate 0.1% cream,197407,betamethasone,C05AA,Corticosteroids
+betamethasone valerate 0.1% cream,197407,betamethasone,D07AC,"Corticosteroids, potent (group III)"
+betamethasone valerate 0.1% cream,197407,betamethasone,D07XC,"Corticosteroids, potent, other combinations"
+betamethasone valerate 0.1% cream,197407,betamethasone,H02AB,Glucocorticoids
+betamethasone valerate 0.1% cream,197407,betamethasone,R01AD,Corticosteroids
+betamethasone valerate 0.1% cream,197407,betamethasone,R03BA,Glucocorticoids
+betamethasone valerate 0.1% cream,197407,betamethasone,S01BA,"Corticosteroids, plain"
+betamethasone valerate 0.1% cream,197407,betamethasone,S01CB,Corticosteroids/antiinfectives/mydriatics in combination
+betamethasone valerate 0.1% cream,197407,betamethasone,S02BA,Corticosteroids
+betamethasone valerate 0.1% cream,197407,betamethasone,S03BA,Corticosteroids
+betaxolol ophth susp  0.25%,308719,betaxolol,C07AB,"Beta blocking agents, selective"
+betaxolol ophth susp  0.25%,308719,betaxolol,S01ED,Beta blocking agents
+bethanechol,19257,bethanechol,N07AB,Choline esters
+bicalutamide,83008,bicalutamide,L02BB,Anti-androgens
+bicitra,1291,bacitracin,D06AX,Other antibiotics for topical use
+bicitra,1291,bacitracin,J01XX,Other antibacterials
+bicitra,1291,bacitracin,R02AB,Antibiotics
+bicitra,1291,bacitracin,S01AA,Antibiotics
+bictegrav-emtricit-tenofov ala,2584354,tenofovir alafenamide,J05AF,Nucleoside and nucleotide reverse transcriptase inhibitors
+bictegrav-emtricit-tenofov ala,2584354,emtricitabine,J05AF,Nucleoside and nucleotide reverse transcriptase inhibitors
+bisacodyl,1596,bisacodyl,A06AB,Contact laxatives
+bisacodyl,1596,bisacodyl,A06AG,Enemas
+bismuth subsalicylate,19478,bismuth subsalicylate,,
+bismuth subsalicylate chewable,371099,bismuth subsalicylate,,
+bisoprolol fumarate,142146,bisoprolol,C07AB,"Beta blocking agents, selective"
+bivalirudin,60819,bivalirudin,B01AE,Direct thrombin inhibitors
+bortezomib,358258,bortezomib,L01XG,Proteasome inhibitors
+brimonidine tartrate 0.15% ophth.,861208,brimonidine,D11AX,Other dermatologicals
+brimonidine tartrate 0.15% ophth.,861208,brimonidine,S01EA,Sympathomimetics in glaucoma therapy
+brimonidine tartrate 0.15% ophth.,861208,brimonidine,S01GA,Sympathomimetics used as decongestants
+brimonidine tartrate 0.2% ophth.,861200,brimonidine,D11AX,Other dermatologicals
+brimonidine tartrate 0.2% ophth.,861200,brimonidine,S01EA,Sympathomimetics in glaucoma therapy
+brimonidine tartrate 0.2% ophth.,861200,brimonidine,S01GA,Sympathomimetics used as decongestants
+brinzolamide,194881,brinzolamide,S01EC,Carbonic anhydrase inhibitors
+budesonide,19831,budesonide,A07EA,Corticosteroids acting locally
+budesonide,19831,budesonide,D07AC,"Corticosteroids, potent (group III)"
+budesonide,19831,budesonide,R01AD,Corticosteroids
+budesonide,19831,budesonide,R03BA,Glucocorticoids
+bumetanide,1808,bumetanide,C03CA,"Sulfonamides, plain"
+buprenorphine-naloxone (8mg-2mg),352364,buprenorphine,N02AE,Oripavine derivatives
+buprenorphine-naloxone (8mg-2mg),352364,buprenorphine,N07BC,Drugs used in opioid dependence
+buprenorphine-naloxone (8mg-2mg),352364,naloxone,A06AH,Peripheral opioid receptor antagonists
+buprenorphine-naloxone (8mg-2mg),352364,naloxone,V03AB,Antidotes
+buprenorphine-naloxone film (8mg-2mg),1010604,buprenorphine,N02AE,Oripavine derivatives
+buprenorphine-naloxone film (8mg-2mg),1010604,buprenorphine,N07BC,Drugs used in opioid dependence
+buprenorphine-naloxone film (8mg-2mg),1010604,naloxone,A06AH,Peripheral opioid receptor antagonists
+buprenorphine-naloxone film (8mg-2mg),1010604,naloxone,V03AB,Antidotes
+buprenorphine-naloxone tablet (8mg-2mg),351267,buprenorphine,N02AE,Oripavine derivatives
+buprenorphine-naloxone tablet (8mg-2mg),351267,buprenorphine,N07BC,Drugs used in opioid dependence
+buprenorphine-naloxone tablet (8mg-2mg),351267,naloxone,A06AH,Peripheral opioid receptor antagonists
+buprenorphine-naloxone tablet (8mg-2mg),351267,naloxone,V03AB,Antidotes
+bupropion,42347,bupropion,N06AX,Other antidepressants
+bupropion (sustained release),378354,bupropion,N06AX,Other antidepressants
+bupropion xl (once daily),2398511,gabapentin,N02BF,Gabapentinoids
+buspirone,1827,buspirone,N05BE,Azaspirodecanedione derivatives
+calcipotriene 0.005% cream,313921,calcipotriene,D05AX,Other antipsoriatics for topical use
+calcitonin salmon,36118,salmon calcitonin,H05BA,Calcitonin preparations
+calcitriol,1894,calcitriol,A11CC,Vitamin D and analogues
+calcitriol,1894,calcitriol,D05AX,Other antipsoriatics for topical use
+calcium acetate,214342,calcium acetate,V03AE,Drugs for treatment of hyperkalemia and hyperphosphatemia
+calcium carbonate,1897,calcium carbonate,A02AC,Calcium compounds
+calcium carbonate,1897,calcium carbonate,A12AA,Calcium
+calcium gluconate,1908,calcium gluconate,A12AA,Calcium
+calcium gluconate,1908,calcium gluconate,B05XA,Electrolyte solutions
+calcium gluconate,1908,calcium gluconate,D11AX,Other dermatologicals
+candesartan,214354,candesartan,C09CA,"Angiotensin II receptor blockers (ARBs), plain"
+caphosol,,,,
+capsaicin 0.025%,198555,capsaicin,M02AB,Capsaicin and similar agents
+capsaicin 0.025%,198555,capsaicin,N01BX,Other local anesthetics
+captopril,1998,captopril,C09AA,"ACE inhibitors, plain"
+carbamazepine,2002,carbamazepine,N03AF,Carboxamide derivatives
+carbamide peroxide 6.5%,702050,carbamide peroxide,,
+carbidopa-levodopa (25-100),103990,levodopa,N04BA,Dopa and dopa derivatives
+carbidopa-levodopa (25-250),103990,levodopa,N04BA,Dopa and dopa derivatives
+carbidopa-levodopa cr (25-100),103990,levodopa,N04BA,Dopa and dopa derivatives
+carbidopa-levodopa cr (50-200),103990,levodopa,N04BA,Dopa and dopa derivatives
+carvedilol,20352,carvedilol,C07AG,Alpha and beta blocking agents
+cefazolin,2180,cefazolin,J01DB,First-generation cephalosporins
+cefepime,20481,cefepime,J01DE,Fourth-generation cephalosporins
+cefpodoxime proxetil,47835,cefpodoxime,J01DD,Third-generation cephalosporins
+ceftazidime,2191,ceftazidime,J01DD,Third-generation cephalosporins
+ceftriaxone,2193,ceftriaxone,J01DD,Third-generation cephalosporins
+cepacol (menthol),2229,benzocaine,C05AD,Local anesthetics
+cepacol (menthol),2229,benzocaine,D04AB,Anesthetics for topical use
+cepacol (menthol),2229,benzocaine,N01BA,Esters of aminobenzoic acid
+cepacol (menthol),2229,benzocaine,R02AD,"Anesthetics, local"
+cepacol (sore throat lozenge),1296325,benzocaine,C05AD,Local anesthetics
+cepacol (sore throat lozenge),1296325,benzocaine,D04AB,Anesthetics for topical use
+cepacol (sore throat lozenge),1296325,benzocaine,N01BA,Esters of aminobenzoic acid
+cepacol (sore throat lozenge),1296325,benzocaine,R02AD,"Anesthetics, local"
+cepacol (sore throat lozenge),1296325,dextromethorphan,R05DA,Opium alkaloids and derivatives
+cepastat (phenol) lozenge,1242122,phenol,C05BB,Sclerosing agents for local injection
+cepastat (phenol) lozenge,1242122,phenol,D08AE,Phenol and derivatives
+cepastat (phenol) lozenge,1242122,phenol,N01BX,Other local anesthetics
+cepastat (phenol) lozenge,1242122,phenol,R02AA,Antiseptics
+cephalexin,2231,cephalexin,J01DB,First-generation cephalosporins
+cetirizine,20610,cetirizine,R06AE,Piperazine derivatives
+cetirizine,20610,cetirizine,S01GX,Other antiallergics
+chloraseptic throat spray,802556,benzocaine,C05AD,Local anesthetics
+chloraseptic throat spray,802556,benzocaine,D04AB,Anesthetics for topical use
+chloraseptic throat spray,802556,benzocaine,N01BA,Esters of aminobenzoic acid
+chloraseptic throat spray,802556,benzocaine,R02AD,"Anesthetics, local"
+chlorhexidine gluconate 0.12% oral rinse,834127,chlorhexidine,A01AB,Antiinfectives and antiseptics for local oral treatment
+chlorhexidine gluconate 0.12% oral rinse,834127,chlorhexidine,B05CA,Antiinfectives
+chlorhexidine gluconate 0.12% oral rinse,834127,chlorhexidine,D08AC,Biguanides and amidines
+chlorhexidine gluconate 0.12% oral rinse,834127,chlorhexidine,D09AA,Medicated dressings with antiinfectives
+chlorhexidine gluconate 0.12% oral rinse,834127,chlorhexidine,R02AA,Antiseptics
+chlorhexidine gluconate 0.12% oral rinse,834127,chlorhexidine,S01AX,Other antiinfectives
+chlorhexidine gluconate 0.12% oral rinse,834127,chlorhexidine,S02AA,Antiinfectives
+chlorhexidine gluconate 0.12% oral rinse,834127,chlorhexidine,S03AA,Antiinfectives
+chlorothiazide sodium,91217,chlorothiazide,C03AA,"Thiazides, plain"
+chlorthalidone,2409,chlorthalidone,C03BA,"Sulfonamides, plain"
+cholestyramine,2447,cholestyramine resin,C10AC,Bile acid sequestrants
+cilostazol,21107,cilostazol,B01AC,Platelet aggregation inhibitors excl. heparin
+cinacalcet,407990,cinacalcet,H05BX,Other anti-parathyroid agents
+cinacalcet hcl,384379,cinacalcet,H05BX,Other anti-parathyroid agents
+ciprofloxacin 0.3% ophth soln,309307,ciprofloxacin,J01MA,Fluoroquinolones
+ciprofloxacin 0.3% ophth soln,309307,ciprofloxacin,S01AE,Fluoroquinolones
+ciprofloxacin 0.3% ophth soln,309307,ciprofloxacin,S02AA,Antiinfectives
+ciprofloxacin 0.3% ophth soln,309307,ciprofloxacin,S03AA,Antiinfectives
+ciprofloxacin hcl,81981,ciprofloxacin,J01MA,Fluoroquinolones
+ciprofloxacin hcl,81981,ciprofloxacin,S01AE,Fluoroquinolones
+ciprofloxacin hcl,81981,ciprofloxacin,S02AA,Antiinfectives
+ciprofloxacin hcl,81981,ciprofloxacin,S03AA,Antiinfectives
+citalopram,2556,citalopram,N06AB,Selective serotonin reuptake inhibitors
+citalopram hydrobromide,221078,citalopram,N06AB,Selective serotonin reuptake inhibitors
+clarithromycin,21212,clarithromycin,J01FA,Macrolides
+clindamycin,2582,clindamycin,D10AF,Antiinfectives for treatment of acne
+clindamycin,2582,clindamycin,G01AA,Antibiotics
+clindamycin,2582,clindamycin,J01FF,Lincosamides
+clobetasol propionate 0.05% cream,861495,clobetasol,D07AD,"Corticosteroids, very potent (group IV)"
+clobetasol propionate 0.05% cream,861495,clobetasol,S01BA,"Corticosteroids, plain"
+clobetasol propionate 0.05% ointment,861448,clobetasol,D07AD,"Corticosteroids, very potent (group IV)"
+clobetasol propionate 0.05% ointment,861448,clobetasol,S01BA,"Corticosteroids, plain"
+clonazepam,2598,clonazepam,N03AE,Benzodiazepine derivatives
+clonidine,2599,clonidine,C02AC,Imidazoline receptor agonists
+clonidine,2599,clonidine,N02CX,Other antimigraine preparations
+clonidine,2599,clonidine,S01EA,Sympathomimetics in glaucoma therapy
+clonidine patch 0.1 mg/24 hr,998671,clonidine,C02AC,Imidazoline receptor agonists
+clonidine patch 0.1 mg/24 hr,998671,clonidine,N02CX,Other antimigraine preparations
+clonidine patch 0.1 mg/24 hr,998671,clonidine,S01EA,Sympathomimetics in glaucoma therapy
+clonidine patch 0.2 mg/24 hr,998675,clonidine,C02AC,Imidazoline receptor agonists
+clonidine patch 0.2 mg/24 hr,998675,clonidine,N02CX,Other antimigraine preparations
+clonidine patch 0.2 mg/24 hr,998675,clonidine,S01EA,Sympathomimetics in glaucoma therapy
+clonidine patch 0.3 mg/24 hr,998679,clonidine,C02AC,Imidazoline receptor agonists
+clonidine patch 0.3 mg/24 hr,998679,clonidine,N02CX,Other antimigraine preparations
+clonidine patch 0.3 mg/24 hr,998679,clonidine,S01EA,Sympathomimetics in glaucoma therapy
+clopidogrel,32968,clopidogrel,B01AC,Platelet aggregation inhibitors excl. heparin
+clopidogrel bisulfate,236991,clopidogrel,B01AC,Platelet aggregation inhibitors excl. heparin
+clotrimazole,2623,clotrimazole,A01AB,Antiinfectives and antiseptics for local oral treatment
+clotrimazole,2623,clotrimazole,D01AC,Imidazole and triazole derivatives
+clotrimazole,2623,clotrimazole,G01AF,Imidazole derivatives
+clotrimazole cream,377660,clotrimazole,A01AB,Antiinfectives and antiseptics for local oral treatment
+clotrimazole cream,377660,clotrimazole,D01AC,Imidazole and triazole derivatives
+clotrimazole cream,377660,clotrimazole,G01AF,Imidazole derivatives
+codeine sulfate,91104,codeine,R05DA,Opium alkaloids and derivatives
+colchicine,2683,colchicine,M04AC,Preparations with no effect on uric acid metabolism
+collagenase ointment,379136,collagenase,D03BA,Proteolytic enzymes
+covid-19 vaccine (pfizer),2468230,"SARS-CoV-2 (COVID-19) vaccine, mRNA spike protein",J07BN,Covid-19 vaccines
+creon 12,48470,amylase,A09AA,Enzyme preparations
+cyanocobalamin,11248,vitamin B12,B03BA,Vitamin B12 (cyanocobalamin and analogues)
+cyclobenzaprine,21949,cyclobenzaprine,M03BX,Other centrally acting agents
+cyclophosphamide,3002,cyclophosphamide,L01AA,Nitrogen mustard analogues
+cyclosporine (neoral) modified,2657141,cyclosporine,L04AD,Calcineurin inhibitors
+cyclosporine (neoral) modified,2657141,cyclosporine,S01XA,Other ophthalmologicals
+cyclosporine 0.05% ophth emulsion,351291,cyclosporine,L04AD,Calcineurin inhibitors
+cyclosporine 0.05% ophth emulsion,351291,cyclosporine,S01XA,Other ophthalmologicals
+d10w,1090635,tryptophan,N06AX,Other antidepressants
+d10w,1090635,calcium chloride,A12AA,Calcium
+d10w,1090635,calcium chloride,B05XA,Electrolyte solutions
+d10w,1090635,calcium chloride,G04BA,Acidifiers
+d10w,1090635,glucose,B05CX,Other irrigating solutions
+d10w,1090635,glucose,V04CA,Tests for diabetes
+d10w,1090635,glucose,V06DC,Carbohydrates
+d10w,1090635,glycine,B05CX,Other irrigating solutions
+d10w,1090635,sodium acetate,B05XA,Electrolyte solutions
+d10w,1090635,lysine,B05XB,Amino acids
+d10w,1090635,magnesium chloride,A12CC,Magnesium
+d10w,1090635,magnesium chloride,B05XA,Electrolyte solutions
+d10w,1090635,methionine,V03AB,Antidotes
+d10w,1090635,sodium chloride,A12CA,Sodium
+d10w,1090635,sodium chloride,B05CB,Salt solutions
+d10w,1090635,sodium chloride,B05XA,Electrolyte solutions
+d5 1/2ns,2676752,sitocalciferol,,
+d5ns,,,,
+d5w,1868562,nitroglycerin,C01DA,Organic nitrates
+d5w,1868562,nitroglycerin,C05AE,Muscle relaxants
+dabigatran etexilate,1037042,dabigatran etexilate,B01AE,Direct thrombin inhibitors
+dapagliflozin,1488564,dapagliflozin,A10BK,Sodium-glucose co-transporter 2 (SGLT2) inhibitors
+dapsone,3108,dapsone,D10AX,Other anti-acne preparations for topical use
+dapsone,3108,dapsone,J04BA,Drugs for treatment of lepra
+daptomycin,22299,daptomycin,J01XX,Other antibacterials
+darunavir,460132,darunavir,J05AE,Protease inhibitors
+desmopressin acetate,42634,desmopressin,H01BA,Vasopressin and analogues
+desonide 0.05% cream,349351,desonide,D07AB,"Corticosteroids, moderately potent (group II)"
+desonide 0.05% cream,349351,desonide,S01BA,"Corticosteroids, plain"
+dexamethasone,3264,dexamethasone,A01AC,Corticosteroids for local oral treatment
+dexamethasone,3264,dexamethasone,C05AA,Corticosteroids
+dexamethasone,3264,dexamethasone,D07AB,"Corticosteroids, moderately potent (group II)"
+dexamethasone,3264,dexamethasone,D07XB,"Corticosteroids, moderately potent, other combinations"
+dexamethasone,3264,dexamethasone,D10AA,"Corticosteroids, combinations for treatment of acne"
+dexamethasone,3264,dexamethasone,H02AB,Glucocorticoids
+dexamethasone,3264,dexamethasone,R01AD,Corticosteroids
+dexamethasone,3264,dexamethasone,S01BA,"Corticosteroids, plain"
+dexamethasone,3264,dexamethasone,S01CB,Corticosteroids/antiinfectives/mydriatics in combination
+dexamethasone,3264,dexamethasone,S02BA,Corticosteroids
+dexamethasone,3264,dexamethasone,S03BA,Corticosteroids
+dextromethorphan polistirex,236146,dextromethorphan,R05DA,Opium alkaloids and derivatives
+dextromethorphan-guaifenesin (sugar free),214488,dextromethorphan,R05DA,Opium alkaloids and derivatives
+dextromethorphan-guaifenesin (sugar free),214488,guaifenesin,R05CA,Expectorants
+dextrose 10% in water (d10w),1795480,glucose,B05CX,Other irrigating solutions
+dextrose 10% in water (d10w),1795480,glucose,V04CA,Tests for diabetes
+dextrose 10% in water (d10w),1795480,glucose,V06DC,Carbohydrates
+dextrose 5%,315789,glucose,B05CX,Other irrigating solutions
+dextrose 5%,315789,glucose,V04CA,Tests for diabetes
+dextrose 5%,315789,glucose,V06DC,Carbohydrates
+dextrose 50%,237653,glucose,B05CX,Other irrigating solutions
+dextrose 50%,237653,glucose,V04CA,Tests for diabetes
+dextrose 50%,237653,glucose,V06DC,Carbohydrates
+diazepam,3322,diazepam,N05BA,Benzodiazepine derivatives
+diazepam - ciwa protocol,3322,diazepam,N05BA,Benzodiazepine derivatives
+diclofenac topical gel 1%,855633,diclofenac,D11AX,Other dermatologicals
+diclofenac topical gel 1%,855633,diclofenac,M01AB,Acetic acid derivatives and related substances
+diclofenac topical gel 1%,855633,diclofenac,M02AA,"Antiinflammatory preparations, non-steroids for topical use"
+diclofenac topical gel 1%,855633,diclofenac,S01BC,"Antiinflammatory agents, non-steroids"
+dicloxacillin,3356,dicloxacillin,J01CF,Beta-lactamase resistant penicillins
+dicyclomine,3361,dicyclomine,A03AA,"Synthetic anticholinergics, esters with tertiary amino group"
+digoxin,3407,digoxin,C01AA,Digitalis glycosides
+diltiazem,3443,diltiazem,C05AE,Muscle relaxants
+diltiazem,3443,diltiazem,C08DB,Benzothiazepine derivatives
+diltiazem extended-release,374425,diltiazem,C05AE,Muscle relaxants
+diltiazem extended-release,374425,diltiazem,C08DB,Benzothiazepine derivatives
+diphenhydramine,3498,diphenhydramine,D04AA,Antihistamines for topical use
+diphenhydramine,3498,diphenhydramine,R06AA,Aminoalkyl ethers
+diphenoxylate-atropine,594040,atropine,A03BA,"Belladonna alkaloids, tertiary amines"
+diphenoxylate-atropine,594040,atropine,S01FA,Anticholinergics
+diphenoxylate-atropine,594040,diphenoxylate,A07DA,Antipropulsives
+dipyridamole-aspirin,226716,aspirin,A01AD,Other agents for local oral treatment
+dipyridamole-aspirin,226716,aspirin,B01AC,Platelet aggregation inhibitors excl. heparin
+dipyridamole-aspirin,226716,aspirin,N02BA,Salicylic acid and derivatives
+dipyridamole-aspirin,226716,dipyridamole,B01AC,Platelet aggregation inhibitors excl. heparin
+disopyramide cr,3541,disopyramide,C01BA,"Antiarrhythmics, class Ia"
+divalproex (delayed release),2646626,valproate,,
+divalproex (extended release),2648690,valproate,,
+divalproex sod. sprinkles,1099596,valproate,,
+dobutamine,3616,dobutamine,C01CA,Adrenergic and dopaminergic agents
+docusate,82003,docusate,,
+docusate sodium,71722,docusate,,
+docusate sodium (liquid),2663250,docusate,,
+dofetilide,49247,dofetilide,C01BD,"Antiarrhythmics, class III"
+dolutegravir,1433868,dolutegravir,J05AJ,Integrase inhibitors
+donepezil,135447,donepezil,N06DA,Anticholinesterases
+dorzolamide 2% ophth. soln.,310015,dorzolamide,S01EC,Carbonic anhydrase inhibitors
+dorzolamide 2%/timolol 0.5% ophth.,1923432,timolol,C07AA,"Beta blocking agents, non-selective"
+dorzolamide 2%/timolol 0.5% ophth.,1923432,timolol,S01ED,Beta blocking agents
+dorzolamide 2%/timolol 0.5% ophth.,1923432,dorzolamide,S01EC,Carbonic anhydrase inhibitors
+doxazosin,49276,doxazosin,C02CA,Alpha-adrenoreceptor antagonists
+doxepin hcl,203179,doxepin,D04AX,Other antipruritics
+doxepin hcl,203179,doxepin,N06AA,Non-selective monoamine reuptake inhibitors
+doxercalciferol,11516,doxercalciferol,H05BX,Other anti-parathyroid agents
+doxycycline hyclate,23663,doxycycline,A01AB,Antiinfectives and antiseptics for local oral treatment
+doxycycline hyclate,23663,doxycycline,J01AA,Tetracyclines
+dronabinol,10402,dronabinol,A04AD,Other antiemetics
+dronedarone,233698,dronedarone,C01BD,"Antiarrhythmics, class III"
+duloxetine,72625,duloxetine,N06AX,Other antidepressants
+duloxetine dr,72625,duloxetine,N06AX,Other antidepressants
+efavirenz,195085,efavirenz,J05AG,Non-nucleoside reverse transcriptase inhibitors
+empagliflozin,1545653,empagliflozin,A10BK,Sodium-glucose co-transporter 2 (SGLT2) inhibitors
+emtricitabine,276237,emtricitabine,J05AF,Nucleoside and nucleotide reverse transcriptase inhibitors
+emtricitabine-tenofovir (truvada),540398,emtricitabine,J05AF,Nucleoside and nucleotide reverse transcriptase inhibitors
+emtricitabine-tenofovir (truvada),540398,tenofovir disoproxil,J05AF,Nucleoside and nucleotide reverse transcriptase inhibitors
+emtricitabine-tenofovir alafen (200mg-25mg) *descovy*,1747697,tenofovir alafenamide,J05AF,Nucleoside and nucleotide reverse transcriptase inhibitors
+emtricitabine-tenofovir alafen (200mg-25mg) *descovy*,1747697,emtricitabine,J05AF,Nucleoside and nucleotide reverse transcriptase inhibitors
+enalapril maleate,203123,enalapril,C09AA,"ACE inhibitors, plain"
+enoxaparin (prophylaxis),67108,enoxaparin,B01AB,Heparin group
+enoxaparin (treatment),67108,enoxaparin,B01AB,Heparin group
+enoxaparin sodium,221095,enoxaparin,B01AB,Heparin group
+entacapone,60307,entacapone,N04BX,Other dopaminergic agents
+entecavir,306266,entecavir,J05AF,Nucleoside and nucleotide reverse transcriptase inhibitors
+eplerenone,298869,eplerenone,C03DA,Aldosterone antagonists
+epoetin alfa,105694,epoetin alfa,,
+epoetin alfa-epbx (retacrit),2657314,epoetin alfa,,
+erythromycin 0.5% ophth oint,310149,erythromycin,D10AF,Antiinfectives for treatment of acne
+erythromycin 0.5% ophth oint,310149,erythromycin,J01FA,Macrolides
+erythromycin 0.5% ophth oint,310149,erythromycin,S01AA,Antibiotics
+escitalopram oxalate,353108,escitalopram,N06AB,Selective serotonin reuptake inhibitors
+estrogens conjugated,4099,"estrogens, conjugated (USP)",G03CA,"Natural and semisynthetic estrogens, plain"
+ethacrynic acid,4109,ethacrynate,,
+etravirine,475969,etravirine,J05AG,Non-nucleoside reverse transcriptase inhibitors
+exelon,225807,rivastigmine,N06DA,Anticholinesterases
+exemestane,258494,exemestane,L02BG,Aromatase inhibitors
+ezetimibe,341248,ezetimibe,C10AX,Other lipid modifying agents
+famotidine,4278,famotidine,A02BA,H2-receptor antagonists
+febuxostat,73689,febuxostat,M04AA,Preparations inhibiting uric acid production
+felodipine,4316,felodipine,C08CA,Dihydropyridine derivatives
+fenofibrate,8703,fenofibrate,C10AB,Fibrates
+fentanyl citrate,142436,fentanyl,N01AH,Opioid anesthetics
+fentanyl citrate,142436,fentanyl,N02AB,Phenylpiperidine derivatives
+fentanyl patch,4337,fentanyl,N01AH,Opioid anesthetics
+fentanyl patch,4337,fentanyl,N02AB,Phenylpiperidine derivatives
+ferric gluconate,261435,sodium ferric gluconate complex,,
+ferrous gluconate,24942,ferrous gluconate,B03AA,"Iron bivalent, oral preparations"
+ferrous sulfate,24947,ferrous sulfate,B03AA,"Iron bivalent, oral preparations"
+ferrous sulfate (liquid),1164413,ferrous sulfate,B03AA,"Iron bivalent, oral preparations"
+fexofenadine,87636,fexofenadine,R06AX,Other antihistamines for systemic use
+finasteride,25025,finasteride,D11AX,Other dermatologicals
+finasteride,25025,finasteride,G04CB,Testosterone-5-alpha reductase inhibitors
+fish oil (omega 3),4419,fish oils,,
+flecainide acetate,42686,flecainide,C01BC,"Antiarrhythmics, class Ic"
+fleet enema,730955,"sodium phosphate, monobasic;sodium phosphate, dibasic",,
+fleet enema (mineral oil),205121,mineral oil,A06AA,"Softeners, emollients"
+fleet enema (saline),283100,"sodium phosphate, monobasic;sodium phosphate, dibasic",,
+fluconazole,4450,fluconazole,D01AC,Imidazole and triazole derivatives
+fluconazole,4450,fluconazole,J02AC,Triazole and tetrazole derivatives
+fludrocortisone acetate,165516,fludrocortisone,H02AA,Mineralocorticoids
+fluocinonide 0.05% cream,103456,fluocinonide,C05AA,Corticosteroids
+fluocinonide 0.05% cream,103456,fluocinonide,D07AC,"Corticosteroids, potent (group III)"
+fluocinonide 0.05% ointment,103457,fluocinonide,C05AA,Corticosteroids
+fluocinonide 0.05% ointment,103457,fluocinonide,D07AC,"Corticosteroids, potent (group III)"
+fluorometholone 0.1% ophth susp.,310377,fluorometholone,C05AA,Corticosteroids
+fluorometholone 0.1% ophth susp.,310377,fluorometholone,D07AB,"Corticosteroids, moderately potent (group II)"
+fluorometholone 0.1% ophth susp.,310377,fluorometholone,D07XB,"Corticosteroids, moderately potent, other combinations"
+fluorometholone 0.1% ophth susp.,310377,fluorometholone,D10AA,"Corticosteroids, combinations for treatment of acne"
+fluorometholone 0.1% ophth susp.,310377,fluorometholone,S01BA,"Corticosteroids, plain"
+fluorometholone 0.1% ophth susp.,310377,fluorometholone,S01CB,Corticosteroids/antiinfectives/mydriatics in combination
+fluoxetine,4493,fluoxetine,N06AB,Selective serotonin reuptake inhibitors
+fluticasone propionate 110mcg,895999,fluticasone,D07AC,"Corticosteroids, potent (group III)"
+fluticasone propionate 110mcg,895999,fluticasone,R01AD,Corticosteroids
+fluticasone propionate 110mcg,895999,fluticasone,R03BA,Glucocorticoids
+fluticasone propionate nasal,2661274,fluticasone,D07AC,"Corticosteroids, potent (group III)"
+fluticasone propionate nasal,2661274,fluticasone,R01AD,Corticosteroids
+fluticasone propionate nasal,2661274,fluticasone,R03BA,Glucocorticoids
+fluticasone-salmeterol (250/50),284635,salmeterol,R03AC,Selective beta-2-adrenoreceptor agonists
+fluticasone-salmeterol (250/50),284635,fluticasone,D07AC,"Corticosteroids, potent (group III)"
+fluticasone-salmeterol (250/50),284635,fluticasone,R01AD,Corticosteroids
+fluticasone-salmeterol (250/50),284635,fluticasone,R03BA,Glucocorticoids
+fluticasone-salmeterol diskus (100/50),896184,salmeterol,R03AC,Selective beta-2-adrenoreceptor agonists
+fluticasone-salmeterol diskus (100/50),896184,fluticasone,D07AC,"Corticosteroids, potent (group III)"
+fluticasone-salmeterol diskus (100/50),896184,fluticasone,R01AD,Corticosteroids
+fluticasone-salmeterol diskus (100/50),896184,fluticasone,R03BA,Glucocorticoids
+fluticasone-salmeterol diskus (250/50),896209,salmeterol,R03AC,Selective beta-2-adrenoreceptor agonists
+fluticasone-salmeterol diskus (250/50),896209,fluticasone,D07AC,"Corticosteroids, potent (group III)"
+fluticasone-salmeterol diskus (250/50),896209,fluticasone,R01AD,Corticosteroids
+fluticasone-salmeterol diskus (250/50),896209,fluticasone,R03BA,Glucocorticoids
+fluticasone-salmeterol diskus (500/50),896228,salmeterol,R03AC,Selective beta-2-adrenoreceptor agonists
+fluticasone-salmeterol diskus (500/50),896228,fluticasone,D07AC,"Corticosteroids, potent (group III)"
+fluticasone-salmeterol diskus (500/50),896228,fluticasone,R01AD,Corticosteroids
+fluticasone-salmeterol diskus (500/50),896228,fluticasone,R03BA,Glucocorticoids
+fluvoxamine maleate,203143,fluvoxamine,N06AB,Selective serotonin reuptake inhibitors
+folic acid,4511,folic acid,B03BB,Folic acid and derivatives
+folic acid,4511,folic acid,V04CX,Other diagnostic agents
+fondaparinux,321208,fondaparinux,B01AX,Other antithrombotic agents
+fondaparinux sodium,322154,fondaparinux,B01AX,Other antithrombotic agents
+fosfomycin tromethamine,142135,fosfomycin,J01XX,Other antibacterials
+fosfomycin tromethamine,142135,fosfomycin,S02AA,Antiinfectives
+furosemide,4603,furosemide,C03CA,"Sulfonamides, plain"
+furosemide-heart failure,1311301,porcine heart preparation,,
+gabapentin,25480,gabapentin,N02BF,Gabapentinoids
+galantamine,4637,galantamine,N06DA,Anticholinesterases
+gemfibrozil,4719,gemfibrozil,C10AB,Fibrates
+gentamicin 0.1% cream,197735,gentamicin,D06AX,Other antibiotics for topical use
+gentamicin 0.1% cream,197735,gentamicin,J01GB,Other aminoglycosides
+gentamicin 0.1% cream,197735,gentamicin,S01AA,Antibiotics
+gentamicin 0.1% cream,197735,gentamicin,S02AA,Antiinfectives
+gentamicin 0.1% cream,197735,gentamicin,S03AA,Antiinfectives
+glimepiride,25789,glimepiride,A10BB,Sulfonylureas
+glipizide,4821,glipizide,A10BB,Sulfonylureas
+glipizide xl,4821,glipizide,A10BB,Sulfonylureas
+glucagon,4832,glucagon,H04AA,Glycogenolytic hormones
+glucose gel,377980,glucose,B05CX,Other irrigating solutions
+glucose gel,377980,glucose,V04CA,Tests for diabetes
+glucose gel,377980,glucose,V06DC,Carbohydrates
+glyburide,4815,glyburide,A10BB,Sulfonylureas
+glycerin supps,4910,glycerin,A06AG,Enemas
+glycerin supps,4910,glycerin,A06AX,Other drugs for constipation
+glycopyrrolate,4955,glycopyrronium,D11AA,Antihidrotics
+golytely,26180,sodium bicarbonate,B05CB,Salt solutions
+golytely,26180,sodium bicarbonate,B05XA,Electrolyte solutions
+golytely,26180,sodium sulfate,A06AD,Osmotically acting laxatives
+golytely,26180,sodium sulfate,A12CA,Sodium
+golytely,26180,potassium chloride,A12BA,Potassium
+golytely,26180,potassium chloride,B05XA,Electrolyte solutions
+golytely,26180,sodium chloride,A12CA,Sodium
+golytely,26180,sodium chloride,B05CB,Salt solutions
+golytely,26180,sodium chloride,B05XA,Electrolyte solutions
+guaifenesin,5032,guaifenesin,R05CA,Expectorants
+guaifenesin er,372361,guaifenesin,R05CA,Expectorants
+guaifenesin-codeine phosphate,2661928,codeine,R05DA,Opium alkaloids and derivatives
+guaifenesin-codeine phosphate,2661928,guaifenesin,R05CA,Expectorants
+guaifenesin-dextromethorphan,214488,dextromethorphan,R05DA,Opium alkaloids and derivatives
+guaifenesin-dextromethorphan,214488,guaifenesin,R05CA,Expectorants
+guaifenesin-dextromethorphan (sugar free),214488,dextromethorphan,R05DA,Opium alkaloids and derivatives
+guaifenesin-dextromethorphan (sugar free),214488,guaifenesin,R05CA,Expectorants
+haloperidol,5093,haloperidol,N05AD,Butyrophenone derivatives
+heparin,5224,heparin,B01AB,Heparin group
+heparin,5224,heparin,C05BA,Heparins or heparinoids for topical use
+heparin,5224,heparin,S01XA,Other ophthalmologicals
+heparin (hemodialysis),5224,heparin,B01AB,Heparin group
+heparin (hemodialysis),5224,heparin,C05BA,Heparins or heparinoids for topical use
+heparin (hemodialysis),5224,heparin,S01XA,Other ophthalmologicals
+heparin dwell (1000 units/ml),1361226,heparin,B01AB,Heparin group
+heparin dwell (1000 units/ml),1361226,heparin,C05BA,Heparins or heparinoids for topical use
+heparin dwell (1000 units/ml),1361226,heparin,S01XA,Other ophthalmologicals
+heparin flush (10 units/ml),1361029,heparin,B01AB,Heparin group
+heparin flush (10 units/ml),1361029,heparin,C05BA,Heparins or heparinoids for topical use
+heparin flush (10 units/ml),1361029,heparin,S01XA,Other ophthalmologicals
+heparin flush (100 units/ml),1361048,heparin,B01AB,Heparin group
+heparin flush (100 units/ml),1361048,heparin,C05BA,Heparins or heparinoids for topical use
+heparin flush (100 units/ml),1361048,heparin,S01XA,Other ophthalmologicals
+heparin flush (1000 units/ml),1361226,heparin,B01AB,Heparin group
+heparin flush (1000 units/ml),1361226,heparin,C05BA,Heparins or heparinoids for topical use
+heparin flush (1000 units/ml),1361226,heparin,S01XA,Other ophthalmologicals
+heparin flush (5000 units/ml),1361615,heparin,B01AB,Heparin group
+heparin flush (5000 units/ml),1361615,heparin,C05BA,Heparins or heparinoids for topical use
+heparin flush (5000 units/ml),1361615,heparin,S01XA,Other ophthalmologicals
+heparin flush cvl  (100 units/ml),1361048,heparin,B01AB,Heparin group
+heparin flush cvl  (100 units/ml),1361048,heparin,C05BA,Heparins or heparinoids for topical use
+heparin flush cvl  (100 units/ml),1361048,heparin,S01XA,Other ophthalmologicals
+heparin flush picc (100 units/ml),1361048,heparin,B01AB,Heparin group
+heparin flush picc (100 units/ml),1361048,heparin,C05BA,Heparins or heparinoids for topical use
+heparin flush picc (100 units/ml),1361048,heparin,S01XA,Other ophthalmologicals
+heparin sodium,9877,heparin,B01AB,Heparin group
+heparin sodium,9877,heparin,C05BA,Heparins or heparinoids for topical use
+heparin sodium,9877,heparin,S01XA,Other ophthalmologicals
+hydralazine,5470,hydralazine,C02DB,Hydrazinophthalazine derivatives
+hydrocerin,2105862,petrolatum,,
+hydrochlorothiazide,5487,hydrochlorothiazide,C03AA,"Thiazides, plain"
+hydrocodone-acetaminophen,856980,acetaminophen,N02BE,Anilides
+hydrocodone-acetaminophen,856980,hydrocodone,R05DA,Opium alkaloids and derivatives
+hydrocodone-acetaminophen (5mg-325mg),857002,acetaminophen,N02BE,Anilides
+hydrocodone-acetaminophen (5mg-325mg),857002,hydrocodone,R05DA,Opium alkaloids and derivatives
+hydrocodone-acetaminophen (5mg-500mg),856962,acetaminophen,N02BE,Anilides
+hydrocodone-acetaminophen (5mg-500mg),856962,hydrocodone,R05DA,Opium alkaloids and derivatives
+hydrocortisone,5492,hydrocortisone,A01AC,Corticosteroids for local oral treatment
+hydrocortisone,5492,hydrocortisone,A07EA,Corticosteroids acting locally
+hydrocortisone,5492,hydrocortisone,C05AA,Corticosteroids
+hydrocortisone,5492,hydrocortisone,D07AA,"Corticosteroids, weak (group I)"
+hydrocortisone,5492,hydrocortisone,D07XA,"Corticosteroids, weak, other combinations"
+hydrocortisone,5492,hydrocortisone,H02AB,Glucocorticoids
+hydrocortisone,5492,hydrocortisone,S01BA,"Corticosteroids, plain"
+hydrocortisone,5492,hydrocortisone,S01CB,Corticosteroids/antiinfectives/mydriatics in combination
+hydrocortisone,5492,hydrocortisone,S02BA,Corticosteroids
+hydrocortisone (rectal) 2.5% cream,310879,hydrocortisone,A01AC,Corticosteroids for local oral treatment
+hydrocortisone (rectal) 2.5% cream,310879,hydrocortisone,A07EA,Corticosteroids acting locally
+hydrocortisone (rectal) 2.5% cream,310879,hydrocortisone,C05AA,Corticosteroids
+hydrocortisone (rectal) 2.5% cream,310879,hydrocortisone,D07AA,"Corticosteroids, weak (group I)"
+hydrocortisone (rectal) 2.5% cream,310879,hydrocortisone,D07XA,"Corticosteroids, weak, other combinations"
+hydrocortisone (rectal) 2.5% cream,310879,hydrocortisone,H02AB,Glucocorticoids
+hydrocortisone (rectal) 2.5% cream,310879,hydrocortisone,S01BA,"Corticosteroids, plain"
+hydrocortisone (rectal) 2.5% cream,310879,hydrocortisone,S01CB,Corticosteroids/antiinfectives/mydriatics in combination
+hydrocortisone (rectal) 2.5% cream,310879,hydrocortisone,S02BA,Corticosteroids
+hydrocortisone acetate suppository,2648780,hydrocortisone,A01AC,Corticosteroids for local oral treatment
+hydrocortisone acetate suppository,2648780,hydrocortisone,A07EA,Corticosteroids acting locally
+hydrocortisone acetate suppository,2648780,hydrocortisone,C05AA,Corticosteroids
+hydrocortisone acetate suppository,2648780,hydrocortisone,D07AA,"Corticosteroids, weak (group I)"
+hydrocortisone acetate suppository,2648780,hydrocortisone,D07XA,"Corticosteroids, weak, other combinations"
+hydrocortisone acetate suppository,2648780,hydrocortisone,H02AB,Glucocorticoids
+hydrocortisone acetate suppository,2648780,hydrocortisone,S01BA,"Corticosteroids, plain"
+hydrocortisone acetate suppository,2648780,hydrocortisone,S01CB,Corticosteroids/antiinfectives/mydriatics in combination
+hydrocortisone acetate suppository,2648780,hydrocortisone,S02BA,Corticosteroids
+hydrocortisone cream 0.5%,198707,hydrocortisone,A01AC,Corticosteroids for local oral treatment
+hydrocortisone cream 0.5%,198707,hydrocortisone,A07EA,Corticosteroids acting locally
+hydrocortisone cream 0.5%,198707,hydrocortisone,C05AA,Corticosteroids
+hydrocortisone cream 0.5%,198707,hydrocortisone,D07AA,"Corticosteroids, weak (group I)"
+hydrocortisone cream 0.5%,198707,hydrocortisone,D07XA,"Corticosteroids, weak, other combinations"
+hydrocortisone cream 0.5%,198707,hydrocortisone,H02AB,Glucocorticoids
+hydrocortisone cream 0.5%,198707,hydrocortisone,S01BA,"Corticosteroids, plain"
+hydrocortisone cream 0.5%,198707,hydrocortisone,S01CB,Corticosteroids/antiinfectives/mydriatics in combination
+hydrocortisone cream 0.5%,198707,hydrocortisone,S02BA,Corticosteroids
+hydrocortisone cream 1%,106258,hydrocortisone,A01AC,Corticosteroids for local oral treatment
+hydrocortisone cream 1%,106258,hydrocortisone,A07EA,Corticosteroids acting locally
+hydrocortisone cream 1%,106258,hydrocortisone,C05AA,Corticosteroids
+hydrocortisone cream 1%,106258,hydrocortisone,D07AA,"Corticosteroids, weak (group I)"
+hydrocortisone cream 1%,106258,hydrocortisone,D07XA,"Corticosteroids, weak, other combinations"
+hydrocortisone cream 1%,106258,hydrocortisone,H02AB,Glucocorticoids
+hydrocortisone cream 1%,106258,hydrocortisone,S01BA,"Corticosteroids, plain"
+hydrocortisone cream 1%,106258,hydrocortisone,S01CB,Corticosteroids/antiinfectives/mydriatics in combination
+hydrocortisone cream 1%,106258,hydrocortisone,S02BA,Corticosteroids
+hydrocortisone cream 2.5%,310891,hydrocortisone,A01AC,Corticosteroids for local oral treatment
+hydrocortisone cream 2.5%,310891,hydrocortisone,A07EA,Corticosteroids acting locally
+hydrocortisone cream 2.5%,310891,hydrocortisone,C05AA,Corticosteroids
+hydrocortisone cream 2.5%,310891,hydrocortisone,D07AA,"Corticosteroids, weak (group I)"
+hydrocortisone cream 2.5%,310891,hydrocortisone,D07XA,"Corticosteroids, weak, other combinations"
+hydrocortisone cream 2.5%,310891,hydrocortisone,H02AB,Glucocorticoids
+hydrocortisone cream 2.5%,310891,hydrocortisone,S01BA,"Corticosteroids, plain"
+hydrocortisone cream 2.5%,310891,hydrocortisone,S01CB,Corticosteroids/antiinfectives/mydriatics in combination
+hydrocortisone cream 2.5%,310891,hydrocortisone,S02BA,Corticosteroids
+hydromorphone (dilaudid),1872264,hydromorphone,N02AA,Natural opium alkaloids
+hydroxychloroquine sulfate,153972,hydroxychloroquine,P01BA,Aminoquinolines
+hydroxyurea,5552,hydroxyurea,L01XX,Other antineoplastic agents
+hydroxyzine,5553,hydroxyzine,N05BB,Diphenylmethane derivatives
+hyoscyamine,153970,hyoscyamine,A03BA,"Belladonna alkaloids, tertiary amines"
+ibuprofen,5640,ibuprofen,C01EB,Other cardiac preparations
+ibuprofen,5640,ibuprofen,G02CC,Antiinflammatory products for vaginal administration
+ibuprofen,5640,ibuprofen,M01AE,Propionic acid derivatives
+ibuprofen,5640,ibuprofen,M02AA,"Antiinflammatory preparations, non-steroids for topical use"
+ibuprofen,5640,ibuprofen,R02AX,Other throat preparations
+imipramine,5691,imipramine,N06AA,Non-selective monoamine reuptake inhibitors
+indomethacin,5781,indomethacin,C01EB,Other cardiac preparations
+indomethacin,5781,indomethacin,M01AB,Acetic acid derivatives and related substances
+indomethacin,5781,indomethacin,M02AA,"Antiinflammatory preparations, non-steroids for topical use"
+indomethacin,5781,indomethacin,S01BC,"Antiinflammatory agents, non-steroids"
+influenza vaccine high-dose quadrivalent,2642306,influenza A virus (H1N1) antigen;influenza A virus (H3N2) antigen;influenza B virus antigen,,
+influenza vaccine quadrivalent,2645086,influenza A virus (H1N1) antigen;influenza A virus (H3N2) antigen;influenza B virus antigen,,
+influenza virus vaccine,1312375,influenza A virus,,
+insulin,253182,"insulin, regular, human",A10AB,"Insulins and analogues for injection, fast-acting"
+insulin,253182,"insulin, regular, human",A10AC,"Insulins and analogues for injection, intermediate-acting"
+insulin,253182,"insulin, regular, human",A10AD,"Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting"
+insulin,253182,"insulin, regular, human",A10AE,"Insulins and analogues for injection, long-acting"
+insulin,253182,"insulin, regular, human",A10AF,Insulins and analogues for inhalation
+insulin (regular) for hyperkalemia,253182,"insulin, regular, human",A10AB,"Insulins and analogues for injection, fast-acting"
+insulin (regular) for hyperkalemia,253182,"insulin, regular, human",A10AC,"Insulins and analogues for injection, intermediate-acting"
+insulin (regular) for hyperkalemia,253182,"insulin, regular, human",A10AD,"Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting"
+insulin (regular) for hyperkalemia,253182,"insulin, regular, human",A10AE,"Insulins and analogues for injection, long-acting"
+insulin (regular) for hyperkalemia,253182,"insulin, regular, human",A10AF,Insulins and analogues for inhalation
+insulin pump (self administering medication),253182,"insulin, regular, human",A10AB,"Insulins and analogues for injection, fast-acting"
+insulin pump (self administering medication),253182,"insulin, regular, human",A10AC,"Insulins and analogues for injection, intermediate-acting"
+insulin pump (self administering medication),253182,"insulin, regular, human",A10AD,"Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting"
+insulin pump (self administering medication),253182,"insulin, regular, human",A10AE,"Insulins and analogues for injection, long-acting"
+insulin pump (self administering medication),253182,"insulin, regular, human",A10AF,Insulins and analogues for inhalation
+insulin regular human (u-500),351859,"insulin, regular, human",A10AB,"Insulins and analogues for injection, fast-acting"
+insulin regular human (u-500),351859,"insulin, regular, human",A10AC,"Insulins and analogues for injection, intermediate-acting"
+insulin regular human (u-500),351859,"insulin, regular, human",A10AD,"Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting"
+insulin regular human (u-500),351859,"insulin, regular, human",A10AE,"Insulins and analogues for injection, long-acting"
+insulin regular human (u-500),351859,"insulin, regular, human",A10AF,Insulins and analogues for inhalation
+insulin syringe u-500,351859,"insulin, regular, human",A10AB,"Insulins and analogues for injection, fast-acting"
+insulin syringe u-500,351859,"insulin, regular, human",A10AC,"Insulins and analogues for injection, intermediate-acting"
+insulin syringe u-500,351859,"insulin, regular, human",A10AD,"Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting"
+insulin syringe u-500,351859,"insulin, regular, human",A10AE,"Insulins and analogues for injection, long-acting"
+insulin syringe u-500,351859,"insulin, regular, human",A10AF,Insulins and analogues for inhalation
+ipratropium bromide mdi,203212,ipratropium,,
+ipratropium bromide neb,203212,ipratropium,,
+ipratropium-albuterol inhalation spray,2284636,albuterol,R03AC,Selective beta-2-adrenoreceptor agonists
+ipratropium-albuterol inhalation spray,2284636,albuterol,R03CC,Selective beta-2-adrenoreceptor agonists
+ipratropium-albuterol neb,214199,albuterol,R03AC,Selective beta-2-adrenoreceptor agonists
+ipratropium-albuterol neb,214199,albuterol,R03CC,Selective beta-2-adrenoreceptor agonists
+irbesartan,83818,irbesartan,C09CA,"Angiotensin II receptor blockers (ARBs), plain"
+iron dextran complex,5992,iron-dextran complex,,
+iron polysaccharides complex,105669,polysaccharide iron complex,,
+iso-osmotic dextrose,1665060,cefazolin,J01DB,First-generation cephalosporins
+iso-osmotic sodium chloride,1804735,argatroban,B01AE,Direct thrombin inhibitors
+isosorbide dinitrate,6058,isosorbide dinitrate,C01DA,Organic nitrates
+isosorbide dinitrate,6058,isosorbide dinitrate,C05AE,Muscle relaxants
+isosorbide mononitrate,28004,isosorbide,,
+isosorbide mononitrate (extended release),2645939,isosorbide,,
+ketoconazole 2%,106336,ketoconazole,D01AC,Imidazole and triazole derivatives
+ketoconazole 2%,106336,ketoconazole,G01AF,Imidazole derivatives
+ketoconazole 2%,106336,ketoconazole,H02CA,Anticorticosteroids
+ketoconazole 2%,106336,ketoconazole,J02AB,Imidazole derivatives
+ketoconazole shampoo,377504,ketoconazole,D01AC,Imidazole and triazole derivatives
+ketoconazole shampoo,377504,ketoconazole,G01AF,Imidazole derivatives
+ketoconazole shampoo,377504,ketoconazole,H02CA,Anticorticosteroids
+ketoconazole shampoo,377504,ketoconazole,J02AB,Imidazole derivatives
+ketorolac,35827,ketorolac,M01AB,Acetic acid derivatives and related substances
+ketorolac,35827,ketorolac,S01BC,"Antiinflammatory agents, non-steroids"
+ketorolac 0.5% ophth soln,860107,ketorolac,M01AB,Acetic acid derivatives and related substances
+ketorolac 0.5% ophth soln,860107,ketorolac,S01BC,"Antiinflammatory agents, non-steroids"
+labetalol,6185,labetalol,C07AG,Alpha and beta blocking agents
+lacosamide,623400,lacosamide,N03AX,Other antiepileptics
+lactated ringers,847627,calcium chloride,A12AA,Calcium
+lactated ringers,847627,calcium chloride,B05XA,Electrolyte solutions
+lactated ringers,847627,calcium chloride,G04BA,Acidifiers
+lactated ringers,847627,glucose,B05CX,Other irrigating solutions
+lactated ringers,847627,glucose,V04CA,Tests for diabetes
+lactated ringers,847627,glucose,V06DC,Carbohydrates
+lactated ringers,847627,potassium chloride,A12BA,Potassium
+lactated ringers,847627,potassium chloride,B05XA,Electrolyte solutions
+lactated ringers,847627,sodium chloride,A12CA,Sodium
+lactated ringers,847627,sodium chloride,B05CB,Salt solutions
+lactated ringers,847627,sodium chloride,B05XA,Electrolyte solutions
+lactic acid 12% lotion,197362,lactate,,
+lactulose,6218,lactulose,A06AD,Osmotically acting laxatives
+lactulose enema,6218,lactulose,A06AD,Osmotically acting laxatives
+lamivudine,68244,lamivudine,J05AF,Nucleoside and nucleotide reverse transcriptase inhibitors
+lamotrigine,28439,lamotrigine,N03AX,Other antiepileptics
+lansoprazole oral disintegrating tab,706238,lansoprazole,A02BC,Proton pump inhibitors
+lanthanum,1311070,lanthanum,,
+latanoprost 0.005% ophth. soln.,314072,latanoprost,S01EE,Prostaglandin analogues
+leflunomide,27169,leflunomide,L04AK,Dihydroorotate dehydrogenase (DHODH) inhibitors
+letrozole,72965,letrozole,L02BG,Aromatase inhibitors
+levalbuterol neb,237159,levalbuterol,,
+levetiracetam,114477,levetiracetam,N03AX,Other antiepileptics
+levetiracetam oral solution,406121,levetiracetam,N03AX,Other antiepileptics
+levobunolol 0.5%,1150836,levobunolol,S01ED,Beta blocking agents
+levofloxacin,82122,levofloxacin,J01MA,Fluoroquinolones
+levofloxacin,82122,levofloxacin,S01AE,Fluoroquinolones
+levothyroxine sodium,40144,levothyroxine,,
+lidocaine 1%,1543712,lidocaine,C01BB,"Antiarrhythmics, class Ib"
+lidocaine 1%,1543712,lidocaine,C05AD,Local anesthetics
+lidocaine 1%,1543712,lidocaine,D04AB,Anesthetics for topical use
+lidocaine 1%,1543712,lidocaine,N01BB,Amides
+lidocaine 1%,1543712,lidocaine,R02AD,"Anesthetics, local"
+lidocaine 1%,1543712,lidocaine,S01HA,Local anesthetics
+lidocaine 1%,1543712,lidocaine,S02DA,Analgesics and anesthetics
+lidocaine 1% (for picc/midline insertions),1010033,lidocaine,C01BB,"Antiarrhythmics, class Ib"
+lidocaine 1% (for picc/midline insertions),1010033,lidocaine,C05AD,Local anesthetics
+lidocaine 1% (for picc/midline insertions),1010033,lidocaine,D04AB,Anesthetics for topical use
+lidocaine 1% (for picc/midline insertions),1010033,lidocaine,N01BB,Amides
+lidocaine 1% (for picc/midline insertions),1010033,lidocaine,R02AD,"Anesthetics, local"
+lidocaine 1% (for picc/midline insertions),1010033,lidocaine,S01HA,Local anesthetics
+lidocaine 1% (for picc/midline insertions),1010033,lidocaine,S02DA,Analgesics and anesthetics
+lidocaine 5% ointment,1543069,lidocaine,C01BB,"Antiarrhythmics, class Ib"
+lidocaine 5% ointment,1543069,lidocaine,C05AD,Local anesthetics
+lidocaine 5% ointment,1543069,lidocaine,D04AB,Anesthetics for topical use
+lidocaine 5% ointment,1543069,lidocaine,N01BB,Amides
+lidocaine 5% ointment,1543069,lidocaine,R02AD,"Anesthetics, local"
+lidocaine 5% ointment,1543069,lidocaine,S01HA,Local anesthetics
+lidocaine 5% ointment,1543069,lidocaine,S02DA,Analgesics and anesthetics
+lidocaine 5% patch,1745091,lidocaine,C01BB,"Antiarrhythmics, class Ib"
+lidocaine 5% patch,1745091,lidocaine,C05AD,Local anesthetics
+lidocaine 5% patch,1745091,lidocaine,D04AB,Anesthetics for topical use
+lidocaine 5% patch,1745091,lidocaine,N01BB,Amides
+lidocaine 5% patch,1745091,lidocaine,R02AD,"Anesthetics, local"
+lidocaine 5% patch,1745091,lidocaine,S01HA,Local anesthetics
+lidocaine 5% patch,1745091,lidocaine,S02DA,Analgesics and anesthetics
+lidocaine jelly 2%,1011852,lidocaine,C01BB,"Antiarrhythmics, class Ib"
+lidocaine jelly 2%,1011852,lidocaine,C05AD,Local anesthetics
+lidocaine jelly 2%,1011852,lidocaine,D04AB,Anesthetics for topical use
+lidocaine jelly 2%,1011852,lidocaine,N01BB,Amides
+lidocaine jelly 2%,1011852,lidocaine,R02AD,"Anesthetics, local"
+lidocaine jelly 2%,1011852,lidocaine,S01HA,Local anesthetics
+lidocaine jelly 2%,1011852,lidocaine,S02DA,Analgesics and anesthetics
+lidocaine jelly 2% (glydo),1549447,lidocaine,C01BB,"Antiarrhythmics, class Ib"
+lidocaine jelly 2% (glydo),1549447,lidocaine,C05AD,Local anesthetics
+lidocaine jelly 2% (glydo),1549447,lidocaine,D04AB,Anesthetics for topical use
+lidocaine jelly 2% (glydo),1549447,lidocaine,N01BB,Amides
+lidocaine jelly 2% (glydo),1549447,lidocaine,R02AD,"Anesthetics, local"
+lidocaine jelly 2% (glydo),1549447,lidocaine,S01HA,Local anesthetics
+lidocaine jelly 2% (glydo),1549447,lidocaine,S02DA,Analgesics and anesthetics
+lidocaine jelly 2% (urojet),1011852,lidocaine,C01BB,"Antiarrhythmics, class Ib"
+lidocaine jelly 2% (urojet),1011852,lidocaine,C05AD,Local anesthetics
+lidocaine jelly 2% (urojet),1011852,lidocaine,D04AB,Anesthetics for topical use
+lidocaine jelly 2% (urojet),1011852,lidocaine,N01BB,Amides
+lidocaine jelly 2% (urojet),1011852,lidocaine,R02AD,"Anesthetics, local"
+lidocaine jelly 2% (urojet),1011852,lidocaine,S01HA,Local anesthetics
+lidocaine jelly 2% (urojet),1011852,lidocaine,S02DA,Analgesics and anesthetics
+lidocaine viscous 2%,1010739,lidocaine,C01BB,"Antiarrhythmics, class Ib"
+lidocaine viscous 2%,1010739,lidocaine,C05AD,Local anesthetics
+lidocaine viscous 2%,1010739,lidocaine,D04AB,Anesthetics for topical use
+lidocaine viscous 2%,1010739,lidocaine,N01BB,Amides
+lidocaine viscous 2%,1010739,lidocaine,R02AD,"Anesthetics, local"
+lidocaine viscous 2%,1010739,lidocaine,S01HA,Local anesthetics
+lidocaine viscous 2%,1010739,lidocaine,S02DA,Analgesics and anesthetics
+lidocaine-prilocaine,166283,lidocaine,C01BB,"Antiarrhythmics, class Ib"
+lidocaine-prilocaine,166283,lidocaine,C05AD,Local anesthetics
+lidocaine-prilocaine,166283,lidocaine,D04AB,Anesthetics for topical use
+lidocaine-prilocaine,166283,lidocaine,N01BB,Amides
+lidocaine-prilocaine,166283,lidocaine,R02AD,"Anesthetics, local"
+lidocaine-prilocaine,166283,lidocaine,S01HA,Local anesthetics
+lidocaine-prilocaine,166283,lidocaine,S02DA,Analgesics and anesthetics
+lidocaine-prilocaine,166283,prilocaine,N01BB,Amides
+linezolid,190376,linezolid,J01XX,Other antibacterials
+liothyronine sodium,142448,liothyronine,,
+lisinopril,29046,lisinopril,C09AA,"ACE inhibitors, plain"
+lithium carbonate,42351,lithium carbonate,,
+loperamide,6468,loperamide,A07DA,Antipropulsives
+loratadine,28889,loratadine,R06AX,Other antihistamines for systemic use
+lorazepam,6470,lorazepam,N05BA,Benzodiazepine derivatives
+losartan potassium,203160,losartan,C09CA,"Angiotensin II receptor blockers (ARBs), plain"
+lovastatin,6472,lovastatin,C10AA,HMG CoA reductase inhibitors
+lumigan,284771,bimatoprost,S01EE,Prostaglandin analogues
+maalox/diphenhydramine/lidocaine,1008182,diphenhydramine,D04AA,Antihistamines for topical use
+maalox/diphenhydramine/lidocaine,1008182,diphenhydramine,R06AA,Aminoalkyl ethers
+maalox/diphenhydramine/lidocaine,1008182,lidocaine,C01BB,"Antiarrhythmics, class Ib"
+maalox/diphenhydramine/lidocaine,1008182,lidocaine,C05AD,Local anesthetics
+maalox/diphenhydramine/lidocaine,1008182,lidocaine,D04AB,Anesthetics for topical use
+maalox/diphenhydramine/lidocaine,1008182,lidocaine,N01BB,Amides
+maalox/diphenhydramine/lidocaine,1008182,lidocaine,R02AD,"Anesthetics, local"
+maalox/diphenhydramine/lidocaine,1008182,lidocaine,S01HA,Local anesthetics
+maalox/diphenhydramine/lidocaine,1008182,lidocaine,S02DA,Analgesics and anesthetics
+maalox/lidocaine,152000,aluminum hydroxide,A02AB,Aluminium compounds
+maalox/lidocaine,152000,magnesium hydroxide,A02AA,Magnesium compounds
+maalox/lidocaine,152000,magnesium hydroxide,G04BX,Other urologicals
+magnesium citrate,52356,magnesium citrate,A06AD,Osmotically acting laxatives
+magnesium citrate,52356,magnesium citrate,A12CC,Magnesium
+magnesium citrate,52356,magnesium citrate,B05CB,Salt solutions
+magnesium oxide,6582,magnesium oxide,A02AA,Magnesium compounds
+magnesium oxide,6582,magnesium oxide,A06AD,Osmotically acting laxatives
+magnesium oxide,6582,magnesium oxide,A12CC,Magnesium
+magnesium sulfate,6585,magnesium sulfate,A06AD,Osmotically acting laxatives
+magnesium sulfate,6585,magnesium sulfate,A12CC,Magnesium
+magnesium sulfate,6585,magnesium sulfate,B05XA,Electrolyte solutions
+magnesium sulfate,6585,magnesium sulfate,D11AX,Other dermatologicals
+magnesium sulfate,6585,magnesium sulfate,V04CC,Tests for bile duct patency
+magnesium sulfate replacement (oncology),6585,magnesium sulfate,A06AD,Osmotically acting laxatives
+magnesium sulfate replacement (oncology),6585,magnesium sulfate,A12CC,Magnesium
+magnesium sulfate replacement (oncology),6585,magnesium sulfate,B05XA,Electrolyte solutions
+magnesium sulfate replacement (oncology),6585,magnesium sulfate,D11AX,Other dermatologicals
+magnesium sulfate replacement (oncology),6585,magnesium sulfate,V04CC,Tests for bile duct patency
+meclizine,6676,meclizine,R06AE,Piperazine derivatives
+medroxyprogesterone acetate,1000112,medroxyprogesterone,G03AC,Progestogens
+medroxyprogesterone acetate,1000112,medroxyprogesterone,G03DA,Pregnen (4) derivatives
+medroxyprogesterone acetate,1000112,medroxyprogesterone,L02AB,Progestogens
+megestrol acetate,29451,megestrol,G03AC,Progestogens
+megestrol acetate,29451,megestrol,G03DB,Pregnadien derivatives
+megestrol acetate,29451,megestrol,L02AB,Progestogens
+memantine,6719,memantine,N06DX,Other anti-dementia drugs
+meperidine,6754,meperidine,N02AB,Phenylpiperidine derivatives
+meropenem,29561,meropenem,J01DH,Carbapenems
+mesalamine,52582,mesalamine,A07EC,Aminosalicylic acid and similar agents
+mesalamine (rectal),372786,mesalamine,A07EC,Aminosalicylic acid and similar agents
+mesalamine dr,52582,mesalamine,A07EC,Aminosalicylic acid and similar agents
+metformin (glucophage),368254,metformin,A10BA,Biguanides
+metformin xr (glucophage xr),802051,metformin,A10BA,Biguanides
+methadone,6813,methadone,N07BC,Drugs used in opioid dependence
+methazolamide,6826,methazolamide,S01EC,Carbonic anhydrase inhibitors
+methimazole,6835,methimazole,H03BB,Sulfur-containing imidazole derivatives
+methocarbamol,6845,methocarbamol,M03BA,Carbamic acid esters
+methotrexate,6851,methotrexate,L01BA,Folic acid analogues
+methotrexate,6851,methotrexate,L04AX,Other immunosuppressants
+methylphenidate,6901,methylphenidate,N06BA,Centrally acting sympathomimetics
+methylphenidate (ritalin),368776,methylphenidate,N06BA,Centrally acting sympathomimetics
+methylprednisolone,6902,methylprednisolone,D07AA,"Corticosteroids, weak (group I)"
+methylprednisolone,6902,methylprednisolone,D10AA,"Corticosteroids, combinations for treatment of acne"
+methylprednisolone,6902,methylprednisolone,H02AB,Glucocorticoids
+methylprednisolone sodium succ,203189,methylprednisolone,D07AA,"Corticosteroids, weak (group I)"
+methylprednisolone sodium succ,203189,methylprednisolone,D10AA,"Corticosteroids, combinations for treatment of acne"
+methylprednisolone sodium succ,203189,methylprednisolone,H02AB,Glucocorticoids
+metoclopramide,6915,metoclopramide,A03FA,Propulsives
+metolazone,6916,metolazone,C03BA,"Sulfonamides, plain"
+metoprolol,6918,metoprolol,C07AB,"Beta blocking agents, selective"
+metoprolol succinate xl,221124,metoprolol,C07AB,"Beta blocking agents, selective"
+metoprolol tartrate,203191,metoprolol,C07AB,"Beta blocking agents, selective"
+metoprolol xl (toprol xl),866421,metoprolol,C07AB,"Beta blocking agents, selective"
+metronidazole,6922,metronidazole,A01AB,Antiinfectives and antiseptics for local oral treatment
+metronidazole,6922,metronidazole,D06BX,Other chemotherapeutics
+metronidazole,6922,metronidazole,G01AF,Imidazole derivatives
+metronidazole,6922,metronidazole,J01XD,Imidazole derivatives
+metronidazole,6922,metronidazole,P01AB,Nitroimidazole derivatives
+metronidazole (flagyl),687210,metronidazole,A01AB,Antiinfectives and antiseptics for local oral treatment
+metronidazole (flagyl),687210,metronidazole,D06BX,Other chemotherapeutics
+metronidazole (flagyl),687210,metronidazole,G01AF,Imidazole derivatives
+metronidazole (flagyl),687210,metronidazole,J01XD,Imidazole derivatives
+metronidazole (flagyl),687210,metronidazole,P01AB,Nitroimidazole derivatives
+mexiletine,6926,mexiletine,C01BB,"Antiarrhythmics, class Ib"
+miconazole 2% cream,998483,miconazole,A01AB,Antiinfectives and antiseptics for local oral treatment
+miconazole 2% cream,998483,miconazole,A07AC,Imidazole derivatives
+miconazole 2% cream,998483,miconazole,D01AC,Imidazole and triazole derivatives
+miconazole 2% cream,998483,miconazole,G01AF,Imidazole derivatives
+miconazole 2% cream,998483,miconazole,J02AB,Imidazole derivatives
+miconazole 2% cream,998483,miconazole,S02AA,Antiinfectives
+miconazole nitrate vag cream 2%,998540,miconazole,A01AB,Antiinfectives and antiseptics for local oral treatment
+miconazole nitrate vag cream 2%,998540,miconazole,A07AC,Imidazole derivatives
+miconazole nitrate vag cream 2%,998540,miconazole,D01AC,Imidazole and triazole derivatives
+miconazole nitrate vag cream 2%,998540,miconazole,G01AF,Imidazole derivatives
+miconazole nitrate vag cream 2%,998540,miconazole,J02AB,Imidazole derivatives
+miconazole nitrate vag cream 2%,998540,miconazole,S02AA,Antiinfectives
+miconazole powder 2%,998461,miconazole,A01AB,Antiinfectives and antiseptics for local oral treatment
+miconazole powder 2%,998461,miconazole,A07AC,Imidazole derivatives
+miconazole powder 2%,998461,miconazole,D01AC,Imidazole and triazole derivatives
+miconazole powder 2%,998461,miconazole,G01AF,Imidazole derivatives
+miconazole powder 2%,998461,miconazole,J02AB,Imidazole derivatives
+miconazole powder 2%,998461,miconazole,S02AA,Antiinfectives
+midazolam,6960,midazolam,N05CD,Benzodiazepine derivatives
+midodrine,6963,midodrine,C01CA,Adrenergic and dopaminergic agents
+milk of magnesia,243353,magnesium hydroxide,A02AA,Magnesium compounds
+milk of magnesia,243353,magnesium hydroxide,G04BX,Other urologicals
+milrinone,52769,milrinone,C01CE,Phosphodiesterase inhibitors
+minocycline,6980,minocycline,A01AB,Antiinfectives and antiseptics for local oral treatment
+minocycline,6980,minocycline,D10AF,Antiinfectives for treatment of acne
+minocycline,6980,minocycline,J01AA,Tetracyclines
+minoxidil,6984,minoxidil,C02DC,Pyrimidine derivatives
+minoxidil,6984,minoxidil,D11AX,Other dermatologicals
+mirapex,218402,pramipexole,N04BC,Dopamine agonists
+mirtazapine,15996,mirtazapine,N06AX,Other antidepressants
+modafinil,30125,modafinil,N06BA,Centrally acting sympathomimetics
+moexipril,30131,moexipril,C09AA,"ACE inhibitors, plain"
+montelukast,88249,montelukast,R03DC,Leukotriene receptor antagonists
+montelukast sodium,115713,montelukast,R03DC,Leukotriene receptor antagonists
+morphine sr (ms contin),203354,morphine,N02AA,Natural opium alkaloids
+morphine sulfate,30236,morphine,N02AA,Natural opium alkaloids
+morphine sulfate (concentrated oral soln),2645317,morphine,N02AA,Natural opium alkaloids
+morphine sulfate (oral soln.),2645317,morphine,N02AA,Natural opium alkaloids
+morphine sulfate (oral solution) 2 mg/ml,892589,morphine,N02AA,Natural opium alkaloids
+morphine sulfate ir,892579,morphine,N02AA,Natural opium alkaloids
+mouth care oral rinse,991007,sodium fluoride,A01AA,Caries prophylactic agents
+mouth care oral rinse,991007,sodium fluoride,A12CD,Fluoride
+moviprep,669559,ascorbic acid,A11GA,"Ascorbic acid (vitamin C), plain"
+moviprep,669559,ascorbic acid,G01AD,Organic acids
+moviprep,669559,ascorbic acid,S01XA,Other ophthalmologicals
+moviprep,669559,sodium sulfate,A06AD,Osmotically acting laxatives
+moviprep,669559,sodium sulfate,A12CA,Sodium
+moviprep,669559,potassium chloride,A12BA,Potassium
+moviprep,669559,potassium chloride,B05XA,Electrolyte solutions
+moviprep,669559,sodium chloride,A12CA,Sodium
+moviprep,669559,sodium chloride,B05CB,Salt solutions
+moviprep,669559,sodium chloride,B05XA,Electrolyte solutions
+mucinex,352777,guaifenesin,R05CA,Expectorants
+multivitamins,1304564,thiamine,A11DA,"Vitamin B1, plain"
+multivitamins,1304564,vitamin A,A11CA,"Vitamin A, plain"
+multivitamins,1304564,vitamin A,D10AD,Retinoids for topical use in acne
+multivitamins,1304564,vitamin A,R01AX,Other nasal preparations
+multivitamins,1304564,vitamin A,S01XA,Other ophthalmologicals
+multivitamins,1304564,vitamin B12,B03BA,Vitamin B12 (cyanocobalamin and analogues)
+multivitamins,1304564,ascorbic acid,A11GA,"Ascorbic acid (vitamin C), plain"
+multivitamins,1304564,ascorbic acid,G01AD,Organic acids
+multivitamins,1304564,ascorbic acid,S01XA,Other ophthalmologicals
+multivitamins,1304564,biotin,A11HA,Other plain vitamin preparations
+multivitamins,1304564,dexpanthenol,A11HA,Other plain vitamin preparations
+multivitamins,1304564,dexpanthenol,D03AX,Other cicatrizants
+multivitamins,1304564,dexpanthenol,S01XA,Other ophthalmologicals
+multivitamins,1304564,cholecalciferol,A11CC,Vitamin D and analogues
+multivitamins,1304564,folic acid,B03BB,Folic acid and derivatives
+multivitamins,1304564,folic acid,V04CX,Other diagnostic agents
+multivitamins,1304564,pyridoxine,A11HA,Other plain vitamin preparations
+multivitamins,1304564,niacinamide,A11HA,Other plain vitamin preparations
+multivitamins,1304564,vitamin K1,B02BA,Vitamin K
+multivitamins,1304564,riboflavin,A11HA,Other plain vitamin preparations
+multivitamins,1304564,riboflavin,S01XA,Other ophthalmologicals
+multivitamins w/minerals,6972,mineral oil,A06AA,"Softeners, emollients"
+multivitamins w/minerals chewable,6972,mineral oil,A06AA,"Softeners, emollients"
+mupirocin cream 2%,311877,mupirocin,D06AX,Other antibiotics for topical use
+mupirocin cream 2%,311877,mupirocin,R01AX,Other nasal preparations
+mupirocin nasal ointment 2%,311878,mupirocin,D06AX,Other antibiotics for topical use
+mupirocin nasal ointment 2%,311878,mupirocin,R01AX,Other nasal preparations
+mupirocin ointment 2%,106346,mupirocin,D06AX,Other antibiotics for topical use
+mupirocin ointment 2%,106346,mupirocin,R01AX,Other nasal preparations
+mycophenolate mofetil,68149,mycophenolate mofetil,,
+mycophenolate sodium dr,408142,mycophenolate,,
+nabumetone,31448,nabumetone,M01AX,"Other antiinflammatory and antirheumatic agents, non-steroids"
+nadolol,7226,nadolol,C07AA,"Beta blocking agents, non-selective"
+nafcillin,7233,nafcillin,J01CF,Beta-lactamase resistant penicillins
+naltrexone,7243,naltrexone,N07BB,Drugs used in alcohol dependence
+namenda,405206,memantine,N06DX,Other anti-dementia drugs
+naphazoline-pheniramine ophth. solution,372997,naphazoline,R01AA,"Sympathomimetics, plain"
+naphazoline-pheniramine ophth. solution,372997,naphazoline,R01AB,"Sympathomimetics, combinations excl. corticosteroids"
+naphazoline-pheniramine ophth. solution,372997,naphazoline,S01GA,Sympathomimetics used as decongestants
+naphazoline-pheniramine ophth. solution,372997,pheniramine,D04AA,Antihistamines for topical use
+naphazoline-pheniramine ophth. solution,372997,pheniramine,R06AB,Substituted alkylamines
+naproxen,7258,naproxen,G02CC,Antiinflammatory products for vaginal administration
+naproxen,7258,naproxen,M01AE,Propionic acid derivatives
+naproxen,7258,naproxen,M02AA,"Antiinflammatory preparations, non-steroids for topical use"
+neomycin-polymyxin-bacitracin,477619,bacitracin,D06AX,Other antibiotics for topical use
+neomycin-polymyxin-bacitracin,477619,bacitracin,J01XX,Other antibacterials
+neomycin-polymyxin-bacitracin,477619,bacitracin,R02AB,Antibiotics
+neomycin-polymyxin-bacitracin,477619,bacitracin,S01AA,Antibiotics
+neomycin-polymyxin-bacitracin,477619,neomycin,A01AB,Antiinfectives and antiseptics for local oral treatment
+neomycin-polymyxin-bacitracin,477619,neomycin,A07AA,Antibiotics
+neomycin-polymyxin-bacitracin,477619,neomycin,B05CA,Antiinfectives
+neomycin-polymyxin-bacitracin,477619,neomycin,D06AX,Other antibiotics for topical use
+neomycin-polymyxin-bacitracin,477619,neomycin,J01GB,Other aminoglycosides
+neomycin-polymyxin-bacitracin,477619,neomycin,R02AB,Antibiotics
+neomycin-polymyxin-bacitracin,477619,neomycin,S01AA,Antibiotics
+neomycin-polymyxin-bacitracin,477619,neomycin,S02AA,Antiinfectives
+neomycin-polymyxin-bacitracin,477619,neomycin,S03AA,Antiinfectives
+neomycin-polymyxin-bacitracin,477619,polymyxin B,A07AA,Antibiotics
+neomycin-polymyxin-bacitracin,477619,polymyxin B,J01XB,Polymyxins
+neomycin-polymyxin-bacitracin,477619,polymyxin B,S01AA,Antibiotics
+neomycin-polymyxin-bacitracin,477619,polymyxin B,S02AA,Antiinfectives
+neomycin-polymyxin-bacitracin,477619,polymyxin B,S03AA,Antiinfectives
+nephrocaps,2658523,,,
+neutra-phos,217852,"sodium phosphate, monobasic;sodium phosphate, dibasic;potassium phosphate",,
+nevirapine,53654,nevirapine,J05AG,Non-nucleoside reverse transcriptase inhibitors
+niacin,7393,niacin,C04AC,Nicotinic acid and derivatives
+niacin,7393,niacin,C10AD,Nicotinic acid and derivatives
+niacin sr,311959,niacin,C04AC,Nicotinic acid and derivatives
+niacin sr,311959,niacin,C10AD,Nicotinic acid and derivatives
+nicotine lozenge,379040,nicotine,N07BA,Drugs used in nicotine dependence
+nicotine patch,7407,nicotine,N07BA,Drugs used in nicotine dependence
+nicotine polacrilex,31765,nicotine,N07BA,Drugs used in nicotine dependence
+nifedipine,7417,nifedipine,C08CA,Dihydropyridine derivatives
+nifedipine (extended release),373070,nifedipine,C08CA,Dihydropyridine derivatives
+nifedipine cr,542722,nifedipine,C08CA,Dihydropyridine derivatives
+nitrofurantoin (macrodantin),366715,nitrofurantoin,J01XE,Nitrofuran derivatives
+nitrofurantoin monohyd (macrobid),366504,nitrofurantoin,J01XE,Nitrofuran derivatives
+nitroglycerin,4917,nitroglycerin,C01DA,Organic nitrates
+nitroglycerin,4917,nitroglycerin,C05AE,Muscle relaxants
+nitroglycerin ointment  2%,242946,nitroglycerin,C01DA,Organic nitrates
+nitroglycerin ointment  2%,242946,nitroglycerin,C05AE,Muscle relaxants
+nitroglycerin patch,1805880,nitroglycerin,C01DA,Organic nitrates
+nitroglycerin patch,1805880,nitroglycerin,C05AE,Muscle relaxants
+nitroglycerin sl,4917,nitroglycerin,C01DA,Organic nitrates
+nitroglycerin sl,4917,nitroglycerin,C05AE,Muscle relaxants
+norepinephrine,7512,norepinephrine,C01CA,Adrenergic and dopaminergic agents
+nortriptyline,7531,nortriptyline,N06AA,Non-selective monoamine reuptake inhibitors
+ns,753319,tolnaftate,D01AE,Other antifungals for topical use
+ns (mini bag plus),753319,tolnaftate,D01AE,Other antifungals for topical use
+nystatin,7597,nystatin,A07AA,Antibiotics
+nystatin,7597,nystatin,D01AA,Antibiotics
+nystatin,7597,nystatin,G01AA,Antibiotics
+nystatin cream,373133,nystatin,A07AA,Antibiotics
+nystatin cream,373133,nystatin,D01AA,Antibiotics
+nystatin cream,373133,nystatin,G01AA,Antibiotics
+nystatin ointment,373135,nystatin,A07AA,Antibiotics
+nystatin ointment,373135,nystatin,D01AA,Antibiotics
+nystatin ointment,373135,nystatin,G01AA,Antibiotics
+nystatin oral suspension,373136,nystatin,A07AA,Antibiotics
+nystatin oral suspension,373136,nystatin,D01AA,Antibiotics
+nystatin oral suspension,373136,nystatin,G01AA,Antibiotics
+nystatin-triamcinolone cream,107011,triamcinolone,A01AC,Corticosteroids for local oral treatment
+nystatin-triamcinolone cream,107011,triamcinolone,C05AA,Corticosteroids
+nystatin-triamcinolone cream,107011,triamcinolone,D07AB,"Corticosteroids, moderately potent (group II)"
+nystatin-triamcinolone cream,107011,triamcinolone,D07XB,"Corticosteroids, moderately potent, other combinations"
+nystatin-triamcinolone cream,107011,triamcinolone,H02AB,Glucocorticoids
+nystatin-triamcinolone cream,107011,triamcinolone,R01AD,Corticosteroids
+nystatin-triamcinolone cream,107011,triamcinolone,R03BA,Glucocorticoids
+nystatin-triamcinolone cream,107011,triamcinolone,S01BA,"Corticosteroids, plain"
+nystatin-triamcinolone cream,107011,nystatin,A07AA,Antibiotics
+nystatin-triamcinolone cream,107011,nystatin,D01AA,Antibiotics
+nystatin-triamcinolone cream,107011,nystatin,G01AA,Antibiotics
+olanzapine,61381,olanzapine,N05AH,"Diazepines, oxazepines, thiazepines and oxepines"
+olanzapine (disintegrating tablet),374627,olanzapine,N05AH,"Diazepines, oxazepines, thiazepines and oxepines"
+olmesartan,321064,olmesartan,,
+omeprazole,7646,omeprazole,A02BC,Proton pump inhibitors
+ondansetron,26225,ondansetron,A04AA,Serotonin (5HT3) antagonists
+ondansetron odt,373149,ondansetron,A04AA,Serotonin (5HT3) antagonists
+oseltamivir,260101,oseltamivir,J05AH,Neuraminidase inhibitors
+oxazepam,7781,oxazepam,N05BA,Benzodiazepine derivatives
+oxcarbazepine,32624,oxcarbazepine,N03AF,Carboxamide derivatives
+oxybutynin,32675,oxybutynin,G04BD,Drugs for urinary frequency and incontinence
+oxycodone (concentrated oral soln),373196,oxycodone,N02AA,Natural opium alkaloids
+oxycodone (immediate release),385094,oxycodone,N02AA,Natural opium alkaloids
+oxycodone liquid,1161681,oxycodone,N02AA,Natural opium alkaloids
+oxycodone sr (oxycontin),370158,oxycodone,N02AA,Natural opium alkaloids
+oxycodone--acetaminophen (5mg-325mg),1049635,acetaminophen,N02BE,Anilides
+oxycodone--acetaminophen (5mg-325mg),1049635,oxycodone,N02AA,Natural opium alkaloids
+oxycodone-acetaminophen,214183,acetaminophen,N02BE,Anilides
+oxycodone-acetaminophen,214183,oxycodone,N02AA,Natural opium alkaloids
+oxycodone-acetaminophen (5mg-325mg),1049635,acetaminophen,N02BE,Anilides
+oxycodone-acetaminophen (5mg-325mg),1049635,oxycodone,N02AA,Natural opium alkaloids
+oxymetazoline,7812,oxymetazoline,D11AX,Other dermatologicals
+oxymetazoline,7812,oxymetazoline,R01AA,"Sympathomimetics, plain"
+oxymetazoline,7812,oxymetazoline,R01AB,"Sympathomimetics, combinations excl. corticosteroids"
+oxymetazoline,7812,oxymetazoline,S01GA,Sympathomimetics used as decongestants
+pancrelipase 5000,1595455,amylase,A09AA,Enzyme preparations
+pantoprazole,40790,pantoprazole,A02BC,Proton pump inhibitors
+pantoprazole sodium,253191,pantoprazole,A02BC,Proton pump inhibitors
+paricalcitol,73710,paricalcitol,H05BX,Other anti-parathyroid agents
+paroxetine,32937,paroxetine,N06AB,Selective serotonin reuptake inhibitors
+penicillin v potassium,203195,penicillin V,J01CE,Beta-lactamase sensitive penicillins
+pentoxifylline,8013,pentoxifylline,C04AD,Purine derivatives
+perphenazine,8076,perphenazine,N05AB,Phenothiazines with piperazine structure
+phenazopyridine,8120,phenazopyridine,G04BX,Other urologicals
+phenelzine sulfate,8124,phenelzine,N06AF,"Monoamine oxidase inhibitors, non-selective"
+phenobarbital,8134,phenobarbital,N03AA,Barbiturates and derivatives
+phenytoin sodium extended,71227,phenytoin,N03AB,Hydantoin derivatives
+phosphorus,8263,phosphorus,,
+phytonadione,8308,vitamin K1,B02BA,Vitamin K
+pilocarpine 1%,1000647,pilocarpine,N07AX,Other parasympathomimetics
+pilocarpine 1%,1000647,pilocarpine,S01EB,Parasympathomimetics
+pilocarpine 4%,1000638,pilocarpine,N07AX,Other parasympathomimetics
+pilocarpine 4%,1000638,pilocarpine,S01EB,Parasympathomimetics
+pioglitazone,33738,pioglitazone,A10BG,Thiazolidinediones
+piperacillin-tazobactam,74169,tazobactam,J01CG,Beta-lactamase inhibitors
+piperacillin-tazobactam,74169,piperacillin,J01CA,Penicillins with extended spectrum
+piperacillin-tazobactam na,74169,tazobactam,J01CG,Beta-lactamase inhibitors
+piperacillin-tazobactam na,74169,piperacillin,J01CA,Penicillins with extended spectrum
+pneumococcal 23-valent polysaccharide vaccine,1658470,Streptococcus pneumoniae type 1 capsular polysaccharide antigen;Streptococcus pneumoniae type 10A capsular polysaccharide antigen;Streptococcus pneumoniae type 11A capsular polysaccharide antigen;Streptococcus pneumoniae type 12F capsular polysaccharide antigen;Streptococcus pneumoniae type 14 capsular polysaccharide antigen;Streptococcus pneumoniae type 15B capsular polysaccharide antigen;Streptococcus pneumoniae type 17F capsular polysaccharide antigen;Streptococcus pneumoniae type 18C capsular polysaccharide antigen;Streptococcus pneumoniae type 19A capsular polysaccharide antigen;Streptococcus pneumoniae type 19F capsular polysaccharide antigen;Streptococcus pneumoniae type 2 capsular polysaccharide antigen;Streptococcus pneumoniae type 20 capsular polysaccharide antigen;Streptococcus pneumoniae type 22F capsular polysaccharide antigen;Streptococcus pneumoniae type 23F capsular polysaccharide antigen;Streptococcus pneumoniae type 3 capsular polysaccharide antigen;Streptococcus pneumoniae type 33F capsular polysaccharide antigen;Streptococcus pneumoniae type 4 capsular polysaccharide antigen;Streptococcus pneumoniae type 5 capsular polysaccharide antigen;Streptococcus pneumoniae type 6B capsular polysaccharide antigen;Streptococcus pneumoniae type 7F capsular polysaccharide antigen;Streptococcus pneumoniae type 8 capsular polysaccharide antigen;Streptococcus pneumoniae type 9N capsular polysaccharide antigen;Streptococcus pneumoniae type 9V capsular polysaccharide antigen,,
+pneumococcal vac polyvalent,854977,Streptococcus pneumoniae type 1 capsular polysaccharide antigen;Streptococcus pneumoniae type 10A capsular polysaccharide antigen;Streptococcus pneumoniae type 11A capsular polysaccharide antigen;Streptococcus pneumoniae type 12F capsular polysaccharide antigen;Streptococcus pneumoniae type 14 capsular polysaccharide antigen;Streptococcus pneumoniae type 15B capsular polysaccharide antigen;Streptococcus pneumoniae type 17F capsular polysaccharide antigen;Streptococcus pneumoniae type 18C capsular polysaccharide antigen;Streptococcus pneumoniae type 19A capsular polysaccharide antigen;Streptococcus pneumoniae type 19F capsular polysaccharide antigen;Streptococcus pneumoniae type 2 capsular polysaccharide antigen;Streptococcus pneumoniae type 20 capsular polysaccharide antigen;Streptococcus pneumoniae type 22F capsular polysaccharide antigen;Streptococcus pneumoniae type 23F capsular polysaccharide antigen;Streptococcus pneumoniae type 3 capsular polysaccharide antigen;Streptococcus pneumoniae type 33F capsular polysaccharide antigen;Streptococcus pneumoniae type 4 capsular polysaccharide antigen;Streptococcus pneumoniae type 5 capsular polysaccharide antigen;Streptococcus pneumoniae type 6B capsular polysaccharide antigen;Streptococcus pneumoniae type 7F capsular polysaccharide antigen;Streptococcus pneumoniae type 8 capsular polysaccharide antigen;Streptococcus pneumoniae type 9N capsular polysaccharide antigen;Streptococcus pneumoniae type 9V capsular polysaccharide antigen,,
+polyethylene glycol,8516,polyethylene glycols,A06AD,Osmotically acting laxatives
+posaconazole delayed release tablet,1482907,posaconazole,J02AC,Triazole and tetrazole derivatives
+potassium chloride,8591,potassium chloride,A12BA,Potassium
+potassium chloride,8591,potassium chloride,B05XA,Electrolyte solutions
+potassium chloride (powder),1295399,potassium chloride,A12BA,Potassium
+potassium chloride (powder),1295399,potassium chloride,B05XA,Electrolyte solutions
+potassium chloride replacement (critical care and oncology),216544,glucose,B05CX,Other irrigating solutions
+potassium chloride replacement (critical care and oncology),216544,glucose,V04CA,Tests for diabetes
+potassium chloride replacement (critical care and oncology),216544,glucose,V06DC,Carbohydrates
+potassium chloride replacement (critical care and oncology),216544,potassium chloride,A12BA,Potassium
+potassium chloride replacement (critical care and oncology),216544,potassium chloride,B05XA,Electrolyte solutions
+potassium chloride replacement (oncology),8591,potassium chloride,A12BA,Potassium
+potassium chloride replacement (oncology),8591,potassium chloride,B05XA,Electrolyte solutions
+potassium citrate,54993,potassium citrate,A12BA,Potassium
+potassium phosphate,34322,potassium phosphate,,
+pramipexole,746741,pramipexole,N04BC,Dopamine agonists
+prasugrel,613391,prasugrel,B01AC,Platelet aggregation inhibitors excl. heparin
+pravastatin,42463,pravastatin,C10AA,HMG CoA reductase inhibitors
+prazosin,8629,prazosin,C02CA,Alpha-adrenoreceptor antagonists
+prednisolone acetate 0.12% ophth. susp.,562379,prednisolone,A01AC,Corticosteroids for local oral treatment
+prednisolone acetate 0.12% ophth. susp.,562379,prednisolone,A07EA,Corticosteroids acting locally
+prednisolone acetate 0.12% ophth. susp.,562379,prednisolone,C05AA,Corticosteroids
+prednisolone acetate 0.12% ophth. susp.,562379,prednisolone,D07AA,"Corticosteroids, weak (group I)"
+prednisolone acetate 0.12% ophth. susp.,562379,prednisolone,D07XA,"Corticosteroids, weak, other combinations"
+prednisolone acetate 0.12% ophth. susp.,562379,prednisolone,H02AB,Glucocorticoids
+prednisolone acetate 0.12% ophth. susp.,562379,prednisolone,R01AD,Corticosteroids
+prednisolone acetate 0.12% ophth. susp.,562379,prednisolone,S01BA,"Corticosteroids, plain"
+prednisolone acetate 0.12% ophth. susp.,562379,prednisolone,S01CB,Corticosteroids/antiinfectives/mydriatics in combination
+prednisolone acetate 0.12% ophth. susp.,562379,prednisolone,S02BA,Corticosteroids
+prednisolone acetate 0.12% ophth. susp.,562379,prednisolone,S03BA,Corticosteroids
+prednisolone acetate 1% ophth. susp.,1376336,prednisolone,A01AC,Corticosteroids for local oral treatment
+prednisolone acetate 1% ophth. susp.,1376336,prednisolone,A07EA,Corticosteroids acting locally
+prednisolone acetate 1% ophth. susp.,1376336,prednisolone,C05AA,Corticosteroids
+prednisolone acetate 1% ophth. susp.,1376336,prednisolone,D07AA,"Corticosteroids, weak (group I)"
+prednisolone acetate 1% ophth. susp.,1376336,prednisolone,D07XA,"Corticosteroids, weak, other combinations"
+prednisolone acetate 1% ophth. susp.,1376336,prednisolone,H02AB,Glucocorticoids
+prednisolone acetate 1% ophth. susp.,1376336,prednisolone,R01AD,Corticosteroids
+prednisolone acetate 1% ophth. susp.,1376336,prednisolone,S01BA,"Corticosteroids, plain"
+prednisolone acetate 1% ophth. susp.,1376336,prednisolone,S01CB,Corticosteroids/antiinfectives/mydriatics in combination
+prednisolone acetate 1% ophth. susp.,1376336,prednisolone,S02BA,Corticosteroids
+prednisolone acetate 1% ophth. susp.,1376336,prednisolone,S03BA,Corticosteroids
+prednisone,8640,prednisone,A07EA,Corticosteroids acting locally
+prednisone,8640,prednisone,H02AB,Glucocorticoids
+pregabalin,187832,pregabalin,N02BF,Gabapentinoids
+primidone,8691,primidone,N03AA,Barbiturates and derivatives
+probenecid,8698,probenecid,M04AB,Preparations increasing uric acid excretion
+prochlorperazine,8704,prochlorperazine,N05AB,Phenothiazines with piperazine structure
+promethazine,8745,promethazine,D04AA,Antihistamines for topical use
+promethazine,8745,promethazine,R06AD,Phenothiazine derivatives
+propofol,8782,propofol,N01AX,Other general anesthetics
+propranolol,8787,propranolol,C07AA,"Beta blocking agents, non-selective"
+propranolol la,8787,propranolol,C07AA,"Beta blocking agents, non-selective"
+provigil,219484,modafinil,N06BA,Centrally acting sympathomimetics
+psyllium,8928,psyllium,,
+psyllium powder,1295184,psyllium,,
+psyllium wafer,373696,psyllium,,
+pyridostigmine bromide,9001,pyridostigmine,N07AA,Anticholinesterases
+pyridoxine,684879,pyridoxine,A11HA,Other plain vitamin preparations
+quetiapine extended-release,721790,quetiapine,N05AH,"Diazepines, oxazepines, thiazepines and oxepines"
+quetiapine fumarate,221153,quetiapine,N05AH,"Diazepines, oxazepines, thiazepines and oxepines"
+quinapril,35208,quinapril,C09AA,"ACE inhibitors, plain"
+quinidine gluconate e.r.,35220,quinidine,C01BA,"Antiarrhythmics, class Ia"
+raltegravir,719872,raltegravir,J05AJ,Integrase inhibitors
+ramelteon,596205,ramelteon,N05CH,Melatonin receptor agonists
+ramipril,35296,ramipril,C09AA,"ACE inhibitors, plain"
+ranexa,356778,ranolazine,C01EB,Other cardiac preparations
+ranitidine,9143,ranitidine,A02BA,H2-receptor antagonists
+ranitidine (liquid),1164812,ranitidine,A02BA,H2-receptor antagonists
+ranolazine,35829,ranolazine,C01EB,Other cardiac preparations
+ranolazine er,616491,ranolazine,C01EB,Other cardiac preparations
+repaglinide,73044,repaglinide,A10BX,"Other blood glucose lowering drugs, excl. insulins"
+rifampin,9384,rifampin,J04AB,Antibiotics
+rifaximin,35619,rifaximin,A07AA,Antibiotics
+rifaximin,35619,rifaximin,D06AX,Other antibiotics for topical use
+rilpivirine,1102270,rilpivirine,J05AG,Non-nucleoside reverse transcriptase inhibitors
+risperidone,35636,risperidone,N05AX,Other antipsychotics
+ritonavir,85762,ritonavir,J05AE,Protease inhibitors
+rivaroxaban,1114195,rivaroxaban,B01AF,Direct factor Xa inhibitors
+ropinirole,72302,ropinirole,N04BC,Dopamine agonists
+rosuvastatin calcium,323828,rosuvastatin,C10AA,HMG CoA reductase inhibitors
+sacubitril-valsartan (24mg-26mg),1656339,valsartan,C09CA,"Angiotensin II receptor blockers (ARBs), plain"
+sacubitril-valsartan (49mg-51mg),1656349,valsartan,C09CA,"Angiotensin II receptor blockers (ARBs), plain"
+sacubitril-valsartan (97mg-103mg),1656354,valsartan,C09CA,"Angiotensin II receptor blockers (ARBs), plain"
+salmeterol xinafoate diskus (50 mcg),866049,salmeterol,R03AC,Selective beta-2-adrenoreceptor agonists
+salsalate,36108,salsalate,N02BA,Salicylic acid and derivatives
+sarna lotion,200176,camphor;menthol,,
+senna,36387,"sennosides, USP",A06AB,Contact laxatives
+sertraline,36437,sertraline,N06AB,Selective serotonin reuptake inhibitors
+sevelamer,214824,sevelamer,V03AE,Drugs for treatment of hyperkalemia and hyperphosphatemia
+sevelamer carbonate,660890,sevelamer,V03AE,Drugs for treatment of hyperkalemia and hyperphosphatemia
+sevelamer hydrochloride,237125,sevelamer,V03AE,Drugs for treatment of hyperkalemia and hyperphosphatemia
+sildenafil,136411,sildenafil,G04BE,Drugs used in erectile dysfunction
+silver sulfadiazine 1% cream,106351,silver sulfadiazine,D06BA,Sulfonamides
+simethicone,9796,simethicone,,
+simvastatin,36567,simvastatin,C10AA,HMG CoA reductase inhibitors
+sirolimus,35302,sirolimus,L01EG,Mammalian target of rapamycin (mTOR) kinase inhibitors
+sirolimus,35302,sirolimus,L04AH,Mammalian target of rapamycin (mTOR) kinase inhibitors
+sirolimus,35302,sirolimus,S01XA,Other ophthalmologicals
+sodium bicarbonate,36676,sodium bicarbonate,B05CB,Salt solutions
+sodium bicarbonate,36676,sodium bicarbonate,B05XA,Electrolyte solutions
+sodium chloride,9863,sodium chloride,A12CA,Sodium
+sodium chloride,9863,sodium chloride,B05CB,Salt solutions
+sodium chloride,9863,sodium chloride,B05XA,Electrolyte solutions
+sodium chloride 0.9%,615106,sodium chloride,A12CA,Sodium
+sodium chloride 0.9%,615106,sodium chloride,B05CB,Salt solutions
+sodium chloride 0.9%,615106,sodium chloride,B05XA,Electrolyte solutions
+sodium chloride 0.9%  flush,615106,sodium chloride,A12CA,Sodium
+sodium chloride 0.9%  flush,615106,sodium chloride,B05CB,Salt solutions
+sodium chloride 0.9%  flush,615106,sodium chloride,B05XA,Electrolyte solutions
+sodium chloride 3% inhalation soln,724590,sodium chloride,A12CA,Sodium
+sodium chloride 3% inhalation soln,724590,sodium chloride,B05CB,Salt solutions
+sodium chloride 3% inhalation soln,724590,sodium chloride,B05XA,Electrolyte solutions
+sodium chloride nasal,313019,sodium chloride,A12CA,Sodium
+sodium chloride nasal,313019,sodium chloride,B05CB,Salt solutions
+sodium chloride nasal,313019,sodium chloride,B05XA,Electrolyte solutions
+sodium citrate 4%,56466,sodium citrate,B05CB,Salt solutions
+sodium phosphate,36709,sodium phosphate,A06AD,Osmotically acting laxatives
+sodium phosphate,36709,sodium phosphate,A06AG,Enemas
+sodium phosphate,36709,sodium phosphate,B05XA,Electrolyte solutions
+sodium phosphate,36709,sodium phosphate,V03AG,Drugs for treatment of hypercalcemia
+sodium polystyrene sulfonate,56512,sodium polystyrene sulfonate,,
+soln,152903,,,
+sotalol,9947,sotalol,C07AA,"Beta blocking agents, non-selective"
+spironolactone,9997,spironolactone,C03DA,Aldosterone antagonists
+sterile water,107129,water,,
+sucralfate,10156,sucralfate,A02BX,Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)
+sulfameth/trimethoprim ds,198335,sulfamethoxazole,J01EC,Intermediate-acting sulfonamides
+sulfameth/trimethoprim ds,198335,trimethoprim,J01EA,Trimethoprim and derivatives
+sulfameth/trimethoprim ss,198335,sulfamethoxazole,J01EC,Intermediate-acting sulfonamides
+sulfameth/trimethoprim ss,198335,trimethoprim,J01EA,Trimethoprim and derivatives
+sulfasalazine_,9524,sulfasalazine,A07EC,Aminosalicylic acid and similar agents
+sumatriptan succinate,67158,sumatriptan,N02CC,Selective serotonin (5HT1) agonists
+sw,1550700,orchard grass pollen extract;sweet vernal grass pollen extract;Timothy grass pollen extract;perennial rye grass pollen extract;Kentucky bluegrass pollen extract,,
+symbicort,327148,budesonide,A07EA,Corticosteroids acting locally
+symbicort,327148,budesonide,D07AC,"Corticosteroids, potent (group III)"
+symbicort,327148,budesonide,R01AD,Corticosteroids
+symbicort,327148,budesonide,R03BA,Glucocorticoids
+symbicort,327148,formoterol,R03AC,Selective beta-2-adrenoreceptor agonists
+symbicort,327148,formoterol,R03CC,Selective beta-2-adrenoreceptor agonists
+syringe,721656,,,
+syringe (0.9% sodium chloride),727820,sodium chloride,A12CA,Sodium
+syringe (0.9% sodium chloride),727820,sodium chloride,B05CB,Salt solutions
+syringe (0.9% sodium chloride),727820,sodium chloride,B05XA,Electrolyte solutions
+syringe (chemo),1251889,heptanoic acid,,
+tacrolimus,42316,tacrolimus,D11AH,"Agents for dermatitis, excluding corticosteroids"
+tacrolimus,42316,tacrolimus,L04AD,Calcineurin inhibitors
+tacrolimus suspension,2052604,tacrolimus,D11AH,"Agents for dermatitis, excluding corticosteroids"
+tacrolimus suspension,2052604,tacrolimus,L04AD,Calcineurin inhibitors
+tamoxifen citrate,40137,tamoxifen,L02BA,Anti-estrogens
+tamsulosin,77492,tamsulosin,G04CA,Alpha-adrenoreceptor antagonists
+tb syringe,577961,dextroamphetamine,N06BA,Centrally acting sympathomimetics
+tb syringe,577961,amphetamine,N06BA,Centrally acting sympathomimetics
+temazepam,10355,temazepam,N05CD,Benzodiazepine derivatives
+tenofovir disoproxil (viread),632427,tenofovir disoproxil,J05AF,Nucleoside and nucleotide reverse transcriptase inhibitors
+terazosin,37798,terazosin,G04CA,Alpha-adrenoreceptor antagonists
+terbinafine 1% cream,992528,terbinafine,D01AE,Other antifungals for topical use
+terbinafine 1% cream,992528,terbinafine,D01BA,Antifungals for systemic use
+thiamine,10454,thiamine,A11DA,"Vitamin B1, plain"
+thyroid,10572,thyroid (USP),,
+ticagrelor,1116632,ticagrelor,B01AC,Platelet aggregation inhibitors excl. heparin
+timolol maleate 0.25%,1923428,timolol,C07AA,"Beta blocking agents, non-selective"
+timolol maleate 0.25%,1923428,timolol,S01ED,Beta blocking agents
+timolol maleate 0.5%,1992303,timolol,C07AA,"Beta blocking agents, non-selective"
+timolol maleate 0.5%,1992303,timolol,S01ED,Beta blocking agents
+tiotropium bromide,393575,tiotropium,,
+tizanidine,57258,tizanidine,M03BX,Other centrally acting agents
+tolterodine,119565,tolterodine,G04BD,Drugs for urinary frequency and incontinence
+topiramate (topamax),367661,topiramate,N03AX,Other antiepileptics
+torsemide,38413,torsemide,C03CA,"Sulfonamides, plain"
+tramadol,10689,tramadol,N02AX,Other opioids
+tramadol (ultram),369283,tramadol,N02AX,Other opioids
+trandolapril,38454,trandolapril,C09AA,"ACE inhibitors, plain"
+transplant self medication program,196463,tacrolimus,D11AH,"Agents for dermatitis, excluding corticosteroids"
+transplant self medication program,196463,tacrolimus,L04AD,Calcineurin inhibitors
+travatan z,284896,travoprost,S01EE,Prostaglandin analogues
+travoprost,283809,travoprost,S01EE,Prostaglandin analogues
+trazodone,10737,trazodone,N06AX,Other antidepressants
+trelegy ellipta,1945040,fluticasone,D07AC,"Corticosteroids, potent (group III)"
+trelegy ellipta,1945040,fluticasone,R01AD,Corticosteroids
+trelegy ellipta,1945040,fluticasone,R03BA,Glucocorticoids
+triamcinolone acetonide 0.025% cream,1085644,triamcinolone,A01AC,Corticosteroids for local oral treatment
+triamcinolone acetonide 0.025% cream,1085644,triamcinolone,C05AA,Corticosteroids
+triamcinolone acetonide 0.025% cream,1085644,triamcinolone,D07AB,"Corticosteroids, moderately potent (group II)"
+triamcinolone acetonide 0.025% cream,1085644,triamcinolone,D07XB,"Corticosteroids, moderately potent, other combinations"
+triamcinolone acetonide 0.025% cream,1085644,triamcinolone,H02AB,Glucocorticoids
+triamcinolone acetonide 0.025% cream,1085644,triamcinolone,R01AD,Corticosteroids
+triamcinolone acetonide 0.025% cream,1085644,triamcinolone,R03BA,Glucocorticoids
+triamcinolone acetonide 0.025% cream,1085644,triamcinolone,S01BA,"Corticosteroids, plain"
+triamcinolone acetonide 0.025% ointment,1085633,triamcinolone,A01AC,Corticosteroids for local oral treatment
+triamcinolone acetonide 0.025% ointment,1085633,triamcinolone,C05AA,Corticosteroids
+triamcinolone acetonide 0.025% ointment,1085633,triamcinolone,D07AB,"Corticosteroids, moderately potent (group II)"
+triamcinolone acetonide 0.025% ointment,1085633,triamcinolone,D07XB,"Corticosteroids, moderately potent, other combinations"
+triamcinolone acetonide 0.025% ointment,1085633,triamcinolone,H02AB,Glucocorticoids
+triamcinolone acetonide 0.025% ointment,1085633,triamcinolone,R01AD,Corticosteroids
+triamcinolone acetonide 0.025% ointment,1085633,triamcinolone,R03BA,Glucocorticoids
+triamcinolone acetonide 0.025% ointment,1085633,triamcinolone,S01BA,"Corticosteroids, plain"
+triamcinolone acetonide 0.1% cream,1014314,triamcinolone,A01AC,Corticosteroids for local oral treatment
+triamcinolone acetonide 0.1% cream,1014314,triamcinolone,C05AA,Corticosteroids
+triamcinolone acetonide 0.1% cream,1014314,triamcinolone,D07AB,"Corticosteroids, moderately potent (group II)"
+triamcinolone acetonide 0.1% cream,1014314,triamcinolone,D07XB,"Corticosteroids, moderately potent, other combinations"
+triamcinolone acetonide 0.1% cream,1014314,triamcinolone,H02AB,Glucocorticoids
+triamcinolone acetonide 0.1% cream,1014314,triamcinolone,R01AD,Corticosteroids
+triamcinolone acetonide 0.1% cream,1014314,triamcinolone,R03BA,Glucocorticoids
+triamcinolone acetonide 0.1% cream,1014314,triamcinolone,S01BA,"Corticosteroids, plain"
+triamcinolone acetonide 0.1% ointment,1085636,triamcinolone,A01AC,Corticosteroids for local oral treatment
+triamcinolone acetonide 0.1% ointment,1085636,triamcinolone,C05AA,Corticosteroids
+triamcinolone acetonide 0.1% ointment,1085636,triamcinolone,D07AB,"Corticosteroids, moderately potent (group II)"
+triamcinolone acetonide 0.1% ointment,1085636,triamcinolone,D07XB,"Corticosteroids, moderately potent, other combinations"
+triamcinolone acetonide 0.1% ointment,1085636,triamcinolone,H02AB,Glucocorticoids
+triamcinolone acetonide 0.1% ointment,1085636,triamcinolone,R01AD,Corticosteroids
+triamcinolone acetonide 0.1% ointment,1085636,triamcinolone,R03BA,Glucocorticoids
+triamcinolone acetonide 0.1% ointment,1085636,triamcinolone,S01BA,"Corticosteroids, plain"
+triamterene-hydrochlorothiazide,310818,triamterene,C03DB,Other potassium-sparing agents
+triamterene-hydrochlorothiazide,310818,hydrochlorothiazide,C03AA,"Thiazides, plain"
+triazolam,10767,triazolam,N05CD,Benzodiazepine derivatives
+tricor,220456,fenofibrate,C10AB,Fibrates
+tuberculin protein,8948,purified protein derivative of tuberculin,,
+tucks hemorrhoidal oint 1%,1247709,witch hazel,,
+ursodiol,858747,ursodeoxycholate,,
+valacyclovir,73645,valacyclovir,J05AB,Nucleosides and nucleotides excl. reverse transcriptase inhibitors
+valganciclovir,275891,valganciclovir,J05AB,Nucleosides and nucleotides excl. reverse transcriptase inhibitors
+valproic acid,11118,valproate,,
+valsartan,69749,valsartan,C09CA,"Angiotensin II receptor blockers (ARBs), plain"
+vancomycin,11124,vancomycin,A07AA,Antibiotics
+vancomycin,11124,vancomycin,J01XA,Glycopeptide antibacterials
+vancomycin,11124,vancomycin,S01AA,Antibiotics
+vancomycin oral liquid,1160500,vancomycin,A07AA,Antibiotics
+vancomycin oral liquid,1160500,vancomycin,J01XA,Glycopeptide antibacterials
+vancomycin oral liquid,1160500,vancomycin,S01AA,Antibiotics
+venlafaxine,39786,venlafaxine,N06AX,Other antidepressants
+venlafaxine xr,452534,venlafaxine,N06AX,Other antidepressants
+verapamil,11170,verapamil,C08DA,Phenylalkylamine derivatives
+verapamil hcl,203138,verapamil,C08DA,Phenylalkylamine derivatives
+verapamil sr,11170,verapamil,C08DA,Phenylalkylamine derivatives
+vial,316946,,,
+vitamin a,11246,vitamin A,A11CA,"Vitamin A, plain"
+vitamin a,11246,vitamin A,D10AD,Retinoids for topical use in acne
+vitamin a,11246,vitamin A,R01AX,Other nasal preparations
+vitamin a,11246,vitamin A,S01XA,Other ophthalmologicals
+vitamin b complex,11251,vitamin B complex,,
+vitamin b complex w/c,11251,vitamin B complex,,
+vitamin d,11253,vitamin D,,
+vitamin d2 (ergocalciferol),4018,ergocalciferol,A11CC,Vitamin D and analogues
+vitamin d3 (cholecalciferol),2418,cholecalciferol,A11CC,Vitamin D and analogues
+vitamin e,11256,vitamin E,A11HA,Other plain vitamin preparations
+voriconazole,121243,voriconazole,J02AC,Triazole and tetrazole derivatives
+warfarin,11289,warfarin,B01AA,Vitamin K antagonists
+witch hazel 50% pad,844379,witch hazel,,
+xopenex,261702,levalbuterol,,
+xopenex neb,261702,levalbuterol,,
+zinc sulfate,39954,zinc sulfate,A12CB,Zinc
+zinc sulfate,39954,zinc sulfate,B05XA,Electrolyte solutions
+zolpidem tartrate,221183,zolpidem,N05CF,Benzodiazepine related drugs

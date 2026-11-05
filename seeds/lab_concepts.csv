@@ -1,0 +1,7 @@
+lab_name,itemid,loinc_code,unit,abnormal_rule
+creatinine,50912,2160-0,mg/dL,> 1.5
+sodium,50983,2951-2,mEq/L,< 135
+bun,51006,3094-0,mg/dL,> 30
+hemoglobin,51222,718-7,g/dL,< 10
+potassium,50971,2823-3,mEq/L,> 5.0
+ntprobnp,50963,33762-6,pg/mL,> 5000
